@@ -12,18 +12,47 @@ site: bookdown::bookdown_site
 biblio-style: apalike
 ---
 
-# Intro to statistics publication RAP {#rap_intro}
+# Summary of available resources {#summary}
 
-RAP stands for “Reproducible Analytical Pipeline”.
+## R mentoring
+It is recommended that all who are new to R or DASD request an R mentor. The purpose of the scheme is to provide a better on-the-job R learning experience and raise awareness of the preferred DASD ways of working that will for instance enable people to get up to speed more quickly with others’ code. The scheme is also open to non-coders who need to use the Analytical Platform to advise them through the learning process, and for those commencing a more complex project involving the use of R. To request an R mentor please complete [this mentee form](https://forms.office.com/Pages/ResponsePage.aspx?id=KEeHxuZx_kGp4S6MNndq2PdkMZw8L-FEkMSL2t4Oet1UQVlWMUwzOVZRNUVKSTVZU0pPTUY0MDlZTSQlQCN0PWcu). If you could become an R mentor (we have a shortage of mentors) please complete this [mentor form](https://forms.office.com/Pages/ResponsePage.aspx?id=KEeHxuZx_kGp4S6MNndq2PdkMZw8L-FEkMSL2t4Oet1UNUw1N1M0NVNQSTNOVkdHOUtMQ1lMT0lHTSQlQCN0PWcu). For more information please contact Jessica Dawson.
 
-**Reproducible**: Meaning that at any point in the future we should be able to look back at this work and be able to reproduce everything that we have done today. No more getting queries about a publication from five years ago and searching around to try to find how a figure was calculated.
+## Internal R (and SQL) Training Group materials
+The live R, SQL and GitHub training sessions are generally run twice or three times each year. However, recordings are available so you can work through yourself. These sessions are run using the MoJ Analytical Platform so they are recommended for those working in DASD (or with the Analytical Platform). You can view the material at:
+•	Introduction to R: https://github.com/moj-analytical-services/IntroRTraining
+•	R Charting: https://github.com/moj-analytical-services/ggplotTraining
+•	Introduction to GitHub: https://github.com/moj-analytical-services/git-training-class
+•	R Markdown: https://github.com/moj-analytical-services/rmarkdown_training
+•	Interfacing Excel with R: https://github.com/moj-analytical-services/r-excel-training
+•	Writing Functions in R: https://github.com/moj-analytical-services/writing_functions_in_r
+•	Introduction to SQL: https://github.com/moj-analytical-services/sql_training
 
-**Pipeline**: Meaning an end-to-end system that is as close as possible as a ‘one click’ process for turning source data into useful analytical outputs. These should ideally be produced to be 'future-proof' or easily maintainable to take account of new developments (eg. package updates/data changes)
+The recordings of the R and SQL training sessions (the GitHub ones have not yet been recorded) are stored on MS Stream in the links below:
+•	R training MS Stream Channel: https://web.microsoftstream.com/channel/aa3cda5d-99d6-4e9d-ac5e-6548dd55f52a
+•	SQL training MS Stream Channel: https://web.microsoftstream.com/channel/7cd1cdaf-79cb-4e1e-ab2b-448d8f69f6a1
 
-There are a range of different approaches to RAP. Within MoJ, we would like to prioritise the production of harmonised, understandable data files as a primary RAP output, from which additional outputs, such as publication text, charts and tables can be built along with other uses of the data, such as data visualisations. This guide applies principally to the development of RAP processes for the production of statistical publications.
+One great way of learning is by teaching. If you would be interested in being part of the R (and SQL) training group, whether booking courses/allocating places, designing training, or presenting, please contact Aidan Mews or Georgina Eaton. 
 
-The diagram below illustrates how a full analytical pipeline might look at a high level:
+If you have any questions please contact Aidan Mews or Georgina Eaton.
 
-```{r, echo = FALSE}
-knitr::include_graphics(rep("assets/Data Reporting process map.png"))
-```
+## Coffee and Coding and Bitesize sessions
+The internal R/SQL/Github training (see above) is complemented by coffee and coding and bitesize sessions (click on the links to access the recordings). The contacts are Katharine Breeze and George Papadopoulos respectively.
+
+## Analytical Function training opportunities
+There are now many technical Analytical Function training opportunities for analysts including about topics not presently covered internally e.g. an introduction to python. Examples useful for RAP practitioners include Best practice in programming – clean code – GSS (civilservice.gov.uk) and an Introduction to unit testing – GSS (civilservice.gov.uk). You can view such opportunities via:
+•	A user-friendly list (but not updated since Jan 2021): https://www.gov.uk/guidance/af-learning-curriculum-technical 
+•	GSS Training Courses (many which are open to all analysts): https://gss.civilservice.gov.uk/training-courses/ 
+
+## Datacamp
+Paid Datacamp licenses are beneficial to cover gaps in current training provision that are not picked up by either internal or GSS/Analytical function training currently e.g. more advanced R, SQL, and python skills. You can read more at https://www.datacamp.com/. If you would like to have a Datacamp license please get approval from your deputy director and contact Aidan Mews.
+
+## Other assistance
+Technical help can be requested via the following DASD slack channels: 
+•	intro_R which provides support to those starting out in the world of R and RAP.
+•	R which is for beginners and experts alike.
+•	sql
+•	python
+
+You may also find useful a trello board providing Links to further free online analytical training including in R and R cheatsheets.
+
+
