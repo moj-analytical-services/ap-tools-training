@@ -4,11 +4,11 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>Analytical Platform and related tools training</title>
+  <title>3 Version Control with Git Flow | Analytical Platform and related tools training</title>
   <meta name="description" content="This document provides information about using Analytical Platform and related tools training resources." />
   <meta name="generator" content="bookdown 0.23 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="Analytical Platform and related tools training" />
+  <meta property="og:title" content="3 Version Control with Git Flow | Analytical Platform and related tools training" />
   <meta property="og:type" content="book" />
   
   
@@ -16,7 +16,7 @@
   
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Analytical Platform and related tools training" />
+  <meta name="twitter:title" content="3 Version Control with Git Flow | Analytical Platform and related tools training" />
   
   <meta name="twitter:description" content="This document provides information about using Analytical Platform and related tools training resources." />
   
@@ -31,8 +31,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   
   
-
-<link rel="next" href="rap_struc.html"/>
+<link rel="prev" href="rap_struc.html"/>
+<link rel="next" href="data_struc.html"/>
 <script src="libs/header-attrs-2.10/header-attrs.js"></script>
 <script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
@@ -104,19 +104,17 @@
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="header">
-<h1 class="title">Analytical Platform and related tools training</h1>
-<p class="author"><em>MoJ coding training leads</em></p>
-<p class="date"><em>2021-08-26</em></p>
-</div>
-<div id="rap_intro" class="section level1" number="1">
-<h1><span class="header-section-number">1</span> Intro to statistics publication RAP</h1>
-<p>RAP stands for “Reproducible Analytical Pipeline”.</p>
-<p><strong>Reproducible</strong>: Meaning that at any point in the future we should be able to look back at this work and be able to reproduce everything that we have done today. No more getting queries about a publication from five years ago and searching around to try to find how a figure was calculated.</p>
-<p><strong>Pipeline</strong>: Meaning an end-to-end system that is as close as possible as a ‘one click’ process for turning source data into useful analytical outputs. These should ideally be produced to be ‘future-proof’ or easily maintainable to take account of new developments (eg. package updates/data changes)</p>
-<p>There are a range of different approaches to RAP. Within MoJ, we would like to prioritise the production of harmonised, understandable data files as a primary RAP output, from which additional outputs, such as publication text, charts and tables can be built along with other uses of the data, such as data visualisations. This guide applies principally to the development of RAP processes for the production of statistical publications.</p>
-<p>The diagram below illustrates how a full analytical pipeline might look at a high level:</p>
-<p><img src="assets/Data%20Reporting%20process%20map.png" /><!-- --></p>
+<div id="git_flow" class="section level1" number="3">
+<h1><span class="header-section-number">3</span> Version Control with Git Flow</h1>
+<p>Git Flow is an ideal workflow for Git and GitHub to allow collaboration and development of new features.</p>
+<p>It is based on three types of branch:</p>
+<ol style="list-style-type: decimal">
+<li>Master – the live version of the code, managed by an administrator. No editing is done on this branch.</li>
+<li>Development – a staging area for testing finished features together, before getting merged into the live master branch</li>
+<li>Features – these branches are used for individual new features. When a new feature is worked on, before testing it with other new features it gets developed on its own branch, which can be collaborated on by multiple people. When a feature is finished and had unit testing completed, it can be merged into the development branch.</li>
+</ol>
+<p>This will also feed in to the categorisation of a release within GitHub. Within RAP, each release should align with a finalised process for the production of a single publication. This means that in future we can easily revert code to its state at the point of publication and easily recreate old data if needed.</p>
+<p>For more information, see <a href="https://web.microsoftstream.com/video/fcf60e66-e7fe-4bf7-9ab4-e2c692637018">Learn to love Github with Git Flow</a>.</p>
 
 </div>
             </section>
@@ -124,8 +122,8 @@
           </div>
         </div>
       </div>
-
-<a href="rap_struc.html" class="navigation navigation-next navigation-unique" aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+<a href="rap_struc.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="data_struc.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>

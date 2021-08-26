@@ -4,11 +4,11 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>Analytical Platform and related tools training</title>
+  <title>5 Generalisable Code | Analytical Platform and related tools training</title>
   <meta name="description" content="This document provides information about using Analytical Platform and related tools training resources." />
   <meta name="generator" content="bookdown 0.23 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="Analytical Platform and related tools training" />
+  <meta property="og:title" content="5 Generalisable Code | Analytical Platform and related tools training" />
   <meta property="og:type" content="book" />
   
   
@@ -16,7 +16,7 @@
   
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Analytical Platform and related tools training" />
+  <meta name="twitter:title" content="5 Generalisable Code | Analytical Platform and related tools training" />
   
   <meta name="twitter:description" content="This document provides information about using Analytical Platform and related tools training resources." />
   
@@ -31,8 +31,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   
   
-
-<link rel="next" href="rap_struc.html"/>
+<link rel="prev" href="data_struc.html"/>
+<link rel="next" href="standards.html"/>
 <script src="libs/header-attrs-2.10/header-attrs.js"></script>
 <script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
@@ -104,19 +104,27 @@
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="header">
-<h1 class="title">Analytical Platform and related tools training</h1>
-<p class="author"><em>MoJ coding training leads</em></p>
-<p class="date"><em>2021-08-26</em></p>
-</div>
-<div id="rap_intro" class="section level1" number="1">
-<h1><span class="header-section-number">1</span> Intro to statistics publication RAP</h1>
-<p>RAP stands for “Reproducible Analytical Pipeline”.</p>
-<p><strong>Reproducible</strong>: Meaning that at any point in the future we should be able to look back at this work and be able to reproduce everything that we have done today. No more getting queries about a publication from five years ago and searching around to try to find how a figure was calculated.</p>
-<p><strong>Pipeline</strong>: Meaning an end-to-end system that is as close as possible as a ‘one click’ process for turning source data into useful analytical outputs. These should ideally be produced to be ‘future-proof’ or easily maintainable to take account of new developments (eg. package updates/data changes)</p>
-<p>There are a range of different approaches to RAP. Within MoJ, we would like to prioritise the production of harmonised, understandable data files as a primary RAP output, from which additional outputs, such as publication text, charts and tables can be built along with other uses of the data, such as data visualisations. This guide applies principally to the development of RAP processes for the production of statistical publications.</p>
-<p>The diagram below illustrates how a full analytical pipeline might look at a high level:</p>
-<p><img src="assets/Data%20Reporting%20process%20map.png" /><!-- --></p>
+<div id="generalisable_code" class="section level1" number="5">
+<h1><span class="header-section-number">5</span> Generalisable Code</h1>
+<p>When writing code, you should consider how to make it as generalisable as possible. That is, you should write your code in a way that allows yourself and others to take what you’ve written and use it for several different purposes. In practice, this means writing code as functions within R.</p>
+<p>A function is a set of commands that are bundled together so that they can all be repeated with a single line of code. A function will generally accept different inputs, or parameters, which allows it to be applied in different situations. Within R, functions can be grouped together in packages.</p>
+<p>This means writing your code as much as possible to use these three methods (in reverse order of preference):</p>
+<ol style="list-style-type: decimal">
+<li>Custom functions</li>
+<li>Custom packages</li>
+<li>Multi-use packages (eg. mojrap)</li>
+</ol>
+<p>Code should use as few individual lines of processing as possible. You should design your process to make use of functions as much as possible and these functions should be designed to work on other datasets than those within your RAP process.</p>
+<p>When creating functions, make them as generalisable as possible. This means not including any code within your function that is only applicable to your data and not hardcoding any dataset-specific variables. Any references to data should be set within the parameters of the function so that the function can work on other datasets. Code that is used to recode variables, for example, should refer to a lookup table rather than hard-coding the recodes within the function. This means that your function can be used in other contexts by simply referring to a new lookup table.</p>
+<p>These functions should be built into packages, either custom packages for your particular RAP, or packages such as mojrap which work across multiple processes.</p>
+<p><a href="https://github.com/moj-analytical-services/mojrap">Mojrap</a> is intended to serve as the repository for functions that can be used across publications within MOJ. It is also good practice to use the common packages used across tidy data to standardise your code, these could include:</p>
+<ul>
+<li>dplyr</li>
+<li>tidyverse</li>
+<li>openxlsx</li>
+<li>ggplot2</li>
+</ul>
+<p>When writing your RAPped code in R, it is good practice to use package names with a double colon when calling functions from external packages. For example, when using dplyr’s filter function use dplyr::filter rather than just filter. This means whenever your code is reproduced, the packages required to run it are obvious from the functions used within the code. This also makes functions easier to code into packages if you do this later down the line.</p>
 
 </div>
             </section>
@@ -124,8 +132,8 @@
           </div>
         </div>
       </div>
-
-<a href="rap_struc.html" class="navigation navigation-next navigation-unique" aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+<a href="data_struc.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="standards.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>

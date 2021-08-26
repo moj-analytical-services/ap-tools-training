@@ -4,11 +4,11 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>Analytical Platform and related tools training</title>
+  <title>4 Data Structures | Analytical Platform and related tools training</title>
   <meta name="description" content="This document provides information about using Analytical Platform and related tools training resources." />
   <meta name="generator" content="bookdown 0.23 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="Analytical Platform and related tools training" />
+  <meta property="og:title" content="4 Data Structures | Analytical Platform and related tools training" />
   <meta property="og:type" content="book" />
   
   
@@ -16,7 +16,7 @@
   
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Analytical Platform and related tools training" />
+  <meta name="twitter:title" content="4 Data Structures | Analytical Platform and related tools training" />
   
   <meta name="twitter:description" content="This document provides information about using Analytical Platform and related tools training resources." />
   
@@ -31,8 +31,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   
   
-
-<link rel="next" href="rap_struc.html"/>
+<link rel="prev" href="git_flow.html"/>
+<link rel="next" href="generalisable_code.html"/>
 <script src="libs/header-attrs-2.10/header-attrs.js"></script>
 <script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
@@ -104,19 +104,113 @@
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="header">
-<h1 class="title">Analytical Platform and related tools training</h1>
-<p class="author"><em>MoJ coding training leads</em></p>
-<p class="date"><em>2021-08-26</em></p>
-</div>
-<div id="rap_intro" class="section level1" number="1">
-<h1><span class="header-section-number">1</span> Intro to statistics publication RAP</h1>
-<p>RAP stands for “Reproducible Analytical Pipeline”.</p>
-<p><strong>Reproducible</strong>: Meaning that at any point in the future we should be able to look back at this work and be able to reproduce everything that we have done today. No more getting queries about a publication from five years ago and searching around to try to find how a figure was calculated.</p>
-<p><strong>Pipeline</strong>: Meaning an end-to-end system that is as close as possible as a ‘one click’ process for turning source data into useful analytical outputs. These should ideally be produced to be ‘future-proof’ or easily maintainable to take account of new developments (eg. package updates/data changes)</p>
-<p>There are a range of different approaches to RAP. Within MoJ, we would like to prioritise the production of harmonised, understandable data files as a primary RAP output, from which additional outputs, such as publication text, charts and tables can be built along with other uses of the data, such as data visualisations. This guide applies principally to the development of RAP processes for the production of statistical publications.</p>
-<p>The diagram below illustrates how a full analytical pipeline might look at a high level:</p>
-<p><img src="assets/Data%20Reporting%20process%20map.png" /><!-- --></p>
+<div id="data_struc" class="section level1" number="4">
+<h1><span class="header-section-number">4</span> Data Structures</h1>
+<p>When developing RAP processes, you should ensure that your data adheres to tidy data formats at each stage. At its core this means adhering to three basic principles:</p>
+<ol style="list-style-type: decimal">
+<li>Each variable must have its own column</li>
+<li>Each observation must have its own row</li>
+<li>Each value must have its own cell</li>
+</ol>
+<p>In most cases, this will also mean only having one column of values, while every other column is used to define that value.</p>
+<p>For example, if you were creating a dataset showing the prison population by age over time, it might look like this:</p>
+<table>
+<thead>
+<tr class="header">
+<th align="left"></th>
+<th align="right">Pop_2017</th>
+<th align="right">Pop_2018</th>
+<th align="right">Pop_2020</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">15-17</td>
+<td align="right">470</td>
+<td align="right">3540</td>
+<td align="right">70706</td>
+</tr>
+<tr class="even">
+<td align="left">18-20</td>
+<td align="right">444</td>
+<td align="right">3241</td>
+<td align="right">68861</td>
+</tr>
+<tr class="odd">
+<td align="left">21+</td>
+<td align="right">409</td>
+<td align="right">3192</td>
+<td align="right">69142</td>
+</tr>
+</tbody>
+</table>
+<p>This way of arranging a dataset is not tidy because each observation doesn’t have its own row. Each row contains an observation for 2017, 2018 and 2019. To convert this dataset to tidy data, you would rearrange it to the following:</p>
+<table>
+<thead>
+<tr class="header">
+<th align="left">Age</th>
+<th align="left">Year</th>
+<th align="left">Population</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">15-17</td>
+<td align="left">2017</td>
+<td align="left">470</td>
+</tr>
+<tr class="even">
+<td align="left">18-20</td>
+<td align="left">2017</td>
+<td align="left">3540</td>
+</tr>
+<tr class="odd">
+<td align="left">21+</td>
+<td align="left">2017</td>
+<td align="left">70706</td>
+</tr>
+<tr class="even">
+<td align="left">15-17</td>
+<td align="left">2018</td>
+<td align="left">444</td>
+</tr>
+<tr class="odd">
+<td align="left">18-20</td>
+<td align="left">2018</td>
+<td align="left">3241</td>
+</tr>
+<tr class="even">
+<td align="left">21+</td>
+<td align="left">2018</td>
+<td align="left">68861</td>
+</tr>
+<tr class="odd">
+<td align="left">15-17</td>
+<td align="left">2019</td>
+<td align="left">409</td>
+</tr>
+<tr class="even">
+<td align="left">18-20</td>
+<td align="left">2019</td>
+<td align="left">3192</td>
+</tr>
+<tr class="odd">
+<td align="left">21+</td>
+<td align="left">2019</td>
+<td align="left">69142</td>
+</tr>
+</tbody>
+</table>
+<p>As you can see from the above example, turning your dataset into tidy data can be thought of as making it longer and thinner, with a single column of values.</p>
+<p>There are three main advantages to following a tidy data structure within RAP:</p>
+<ol style="list-style-type: decimal">
+<li>Picking one consistent way of storing data allows you to learn how to use tools and packages within R and apply them across multiple datasets. It also enables you to use and develop functions and packages that will work across multiple datasets because you know how the data will be structured.</li>
+<li>Commonly used tools like dplyr and ggplot2 are designed to work with tidy data.</li>
+<li>R is designed to work with vectorised data. Placing variables in columns transforms your data into a set of vectors and so it will be easier to work with within R.</li>
+</ol>
+<p>For these reasons it is desirable to get your data into tidy format as soon as possible within your RAP process so you can start using some of these advantages as early in the process as possible.</p>
+<p>Sometimes you may want to output data in an ‘untidy’ format, such as for outputs that are to be looked at by a user but not to be read by further code. Make sure to have these be the final output rather than datasets that are then manipulated by your code. All data wrangling should be done with tidy data.</p>
+<p>For more information on tidy data, see <a href="https://r4ds.had.co.nz/tidy-data.html" class="uri">https://r4ds.had.co.nz/tidy-data.html</a></p>
 
 </div>
             </section>
@@ -124,8 +218,8 @@
           </div>
         </div>
       </div>
-
-<a href="rap_struc.html" class="navigation navigation-next navigation-unique" aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+<a href="git_flow.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="generalisable_code.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
