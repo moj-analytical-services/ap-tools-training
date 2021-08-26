@@ -1,4 +1,10 @@
-rap_intro
+summary
+r-mentoring
+internal-r-and-sql-training-group-materials
+coffee-and-coding-and-bitesize-sessions
+analytical-function-training-opportunities
+datacamp
+other-assistance
 rap_struc
 use-one-repo-for-each-endpoint-in-your-process
 common-structure-to-a-rap-repo

@@ -74,7 +74,15 @@
 <li><a href="./">MoJ Analytical Platform tools training</a></li>
 
 <li class="divider"></li>
-<li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> Intro to statistics publication RAP</a></li>
+<li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> Summary of available resources</a>
+<ul>
+<li class="chapter" data-level="1.1" data-path="index.html"><a href="index.html#r-mentoring"><i class="fa fa-check"></i><b>1.1</b> R mentoring</a></li>
+<li class="chapter" data-level="1.2" data-path="index.html"><a href="index.html#internal-r-and-sql-training-group-materials"><i class="fa fa-check"></i><b>1.2</b> Internal R (and SQL) Training Group materials</a></li>
+<li class="chapter" data-level="1.3" data-path="index.html"><a href="index.html#coffee-and-coding-and-bitesize-sessions"><i class="fa fa-check"></i><b>1.3</b> Coffee and Coding and Bitesize sessions</a></li>
+<li class="chapter" data-level="1.4" data-path="index.html"><a href="index.html#analytical-function-training-opportunities"><i class="fa fa-check"></i><b>1.4</b> Analytical Function training opportunities</a></li>
+<li class="chapter" data-level="1.5" data-path="index.html"><a href="index.html#datacamp"><i class="fa fa-check"></i><b>1.5</b> Datacamp</a></li>
+<li class="chapter" data-level="1.6" data-path="index.html"><a href="index.html#other-assistance"><i class="fa fa-check"></i><b>1.6</b> Other assistance</a></li>
+</ul></li>
 <li class="chapter" data-level="2" data-path="rap_struc.html"><a href="rap_struc.html"><i class="fa fa-check"></i><b>2</b> RAP Structure</a>
 <ul>
 <li class="chapter" data-level="2.1" data-path="rap_struc.html"><a href="rap_struc.html#use-one-repo-for-each-endpoint-in-your-process"><i class="fa fa-check"></i><b>2.1</b> Use one repo for each endpoint in your process</a></li>
@@ -109,15 +117,52 @@
 <p class="author"><em>MoJ coding training leads</em></p>
 <p class="date"><em>2021-08-26</em></p>
 </div>
-<div id="rap_intro" class="section level1" number="1">
-<h1><span class="header-section-number">1</span> Intro to statistics publication RAP</h1>
-<p>RAP stands for “Reproducible Analytical Pipeline”.</p>
-<p><strong>Reproducible</strong>: Meaning that at any point in the future we should be able to look back at this work and be able to reproduce everything that we have done today. No more getting queries about a publication from five years ago and searching around to try to find how a figure was calculated.</p>
-<p><strong>Pipeline</strong>: Meaning an end-to-end system that is as close as possible as a ‘one click’ process for turning source data into useful analytical outputs. These should ideally be produced to be ‘future-proof’ or easily maintainable to take account of new developments (eg. package updates/data changes)</p>
-<p>There are a range of different approaches to RAP. Within MoJ, we would like to prioritise the production of harmonised, understandable data files as a primary RAP output, from which additional outputs, such as publication text, charts and tables can be built along with other uses of the data, such as data visualisations. This guide applies principally to the development of RAP processes for the production of statistical publications.</p>
-<p>The diagram below illustrates how a full analytical pipeline might look at a high level:</p>
-<p><img src="assets/Data%20Reporting%20process%20map.png" /><!-- --></p>
+<div id="summary" class="section level1" number="1">
+<h1><span class="header-section-number">1</span> Summary of available resources</h1>
+<div id="r-mentoring" class="section level2" number="1.1">
+<h2><span class="header-section-number">1.1</span> R mentoring</h2>
+<p>It is recommended that all who are new to R or DASD request an R mentor. The purpose of the scheme is to provide a better on-the-job R learning experience and raise awareness of the preferred DASD ways of working that will for instance enable people to get up to speed more quickly with others’ code. The scheme is also open to non-coders who need to use the Analytical Platform to advise them through the learning process, and for those commencing a more complex project involving the use of R. To request an R mentor please complete <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=KEeHxuZx_kGp4S6MNndq2PdkMZw8L-FEkMSL2t4Oet1UQVlWMUwzOVZRNUVKSTVZU0pPTUY0MDlZTSQlQCN0PWcu">this mentee form</a>. If you could become an R mentor (we have a shortage of mentors) please complete this <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=KEeHxuZx_kGp4S6MNndq2PdkMZw8L-FEkMSL2t4Oet1UNUw1N1M0NVNQSTNOVkdHOUtMQ1lMT0lHTSQlQCN0PWcu">mentor form</a>. For more information please contact Jessica Dawson.</p>
+</div>
+<div id="internal-r-and-sql-training-group-materials" class="section level2" number="1.2">
+<h2><span class="header-section-number">1.2</span> Internal R (and SQL) Training Group materials</h2>
+<p>The live R, SQL and GitHub training sessions are generally run twice or three times each year. However, recordings are available so you can work through yourself. These sessions are run using the MoJ Analytical Platform so they are recommended for those working in DASD (or with the Analytical Platform). You can view the material at:
+• Introduction to R: <a href="https://github.com/moj-analytical-services/IntroRTraining" class="uri">https://github.com/moj-analytical-services/IntroRTraining</a>
+• R Charting: <a href="https://github.com/moj-analytical-services/ggplotTraining" class="uri">https://github.com/moj-analytical-services/ggplotTraining</a>
+• Introduction to GitHub: <a href="https://github.com/moj-analytical-services/git-training-class" class="uri">https://github.com/moj-analytical-services/git-training-class</a>
+• R Markdown: <a href="https://github.com/moj-analytical-services/rmarkdown_training" class="uri">https://github.com/moj-analytical-services/rmarkdown_training</a>
+• Interfacing Excel with R: <a href="https://github.com/moj-analytical-services/r-excel-training" class="uri">https://github.com/moj-analytical-services/r-excel-training</a>
+• Writing Functions in R: <a href="https://github.com/moj-analytical-services/writing_functions_in_r" class="uri">https://github.com/moj-analytical-services/writing_functions_in_r</a>
+• Introduction to SQL: <a href="https://github.com/moj-analytical-services/sql_training" class="uri">https://github.com/moj-analytical-services/sql_training</a></p>
+<p>The recordings of the R and SQL training sessions (the GitHub ones have not yet been recorded) are stored on MS Stream in the links below:
+• R training MS Stream Channel: <a href="https://web.microsoftstream.com/channel/aa3cda5d-99d6-4e9d-ac5e-6548dd55f52a" class="uri">https://web.microsoftstream.com/channel/aa3cda5d-99d6-4e9d-ac5e-6548dd55f52a</a>
+• SQL training MS Stream Channel: <a href="https://web.microsoftstream.com/channel/7cd1cdaf-79cb-4e1e-ab2b-448d8f69f6a1" class="uri">https://web.microsoftstream.com/channel/7cd1cdaf-79cb-4e1e-ab2b-448d8f69f6a1</a></p>
+<p>One great way of learning is by teaching. If you would be interested in being part of the R (and SQL) training group, whether booking courses/allocating places, designing training, or presenting, please contact Aidan Mews or Georgina Eaton.</p>
+<p>If you have any questions please contact Aidan Mews or Georgina Eaton.</p>
+</div>
+<div id="coffee-and-coding-and-bitesize-sessions" class="section level2" number="1.3">
+<h2><span class="header-section-number">1.3</span> Coffee and Coding and Bitesize sessions</h2>
+<p>The internal R/SQL/Github training (see above) is complemented by coffee and coding and bitesize sessions (click on the links to access the recordings). The contacts are Katharine Breeze and George Papadopoulos respectively.</p>
+</div>
+<div id="analytical-function-training-opportunities" class="section level2" number="1.4">
+<h2><span class="header-section-number">1.4</span> Analytical Function training opportunities</h2>
+<p>There are now many technical Analytical Function training opportunities for analysts including about topics not presently covered internally e.g. an introduction to python. Examples useful for RAP practitioners include Best practice in programming – clean code – GSS (civilservice.gov.uk) and an Introduction to unit testing – GSS (civilservice.gov.uk). You can view such opportunities via:
+• A user-friendly list (but not updated since Jan 2021): <a href="https://www.gov.uk/guidance/af-learning-curriculum-technical" class="uri">https://www.gov.uk/guidance/af-learning-curriculum-technical</a>
+• GSS Training Courses (many which are open to all analysts): <a href="https://gss.civilservice.gov.uk/training-courses/" class="uri">https://gss.civilservice.gov.uk/training-courses/</a></p>
+</div>
+<div id="datacamp" class="section level2" number="1.5">
+<h2><span class="header-section-number">1.5</span> Datacamp</h2>
+<p>Paid Datacamp licenses are beneficial to cover gaps in current training provision that are not picked up by either internal or GSS/Analytical function training currently e.g. more advanced R, SQL, and python skills. You can read more at <a href="https://www.datacamp.com/" class="uri">https://www.datacamp.com/</a>. If you would like to have a Datacamp license please get approval from your deputy director and contact Aidan Mews.</p>
+</div>
+<div id="other-assistance" class="section level2" number="1.6">
+<h2><span class="header-section-number">1.6</span> Other assistance</h2>
+<p>Technical help can be requested via the following DASD slack channels:
+• intro_R which provides support to those starting out in the world of R and RAP.
+• R which is for beginners and experts alike.
+• sql
+• python</p>
+<p>You may also find useful a trello board providing Links to further free online analytical training including in R and R cheatsheets.</p>
 
+</div>
 </div>
             </section>
 
