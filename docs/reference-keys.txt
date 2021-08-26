@@ -5,10 +5,3 @@ coffee-and-coding-and-bitesize-sessions
 analytical-function-training-opportunities
 datacamp
 other-assistance
-rap_struc
-use-one-repo-for-each-endpoint-in-your-process
-common-structure-to-a-rap-repo
-git_flow
-data_struc
-generalisable_code
-standards
