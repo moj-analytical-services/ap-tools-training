@@ -29,6 +29,7 @@ The live R, SQL and GitHub training sessions are generally run twice or three ti
 *	[Introduction to SQL](https://github.com/moj-analytical-services/sql_training)
 
 The recordings of the R and SQL training sessions (the Introduction to GitHub session has not yet been recorded) are stored on MS Stream in the links below:
+
 * [R training MS Stream Channel](https://web.microsoftstream.com/channel/aa3cda5d-99d6-4e9d-ac5e-6548dd55f52a)
 •	[SQL training MS Stream Channel](https://web.microsoftstream.com/channel/7cd1cdaf-79cb-4e1e-ab2b-448d8f69f6a1)
 
@@ -41,6 +42,7 @@ The internal R/SQL/Github training (see above) is complemented by coffee and cod
 
 ## Analytical Function training opportunities
 There are now many technical Analytical Function training opportunities for analysts including about topics not presently covered internally e.g. an introduction to python. Examples useful for RAP practitioners include Best practice in programming – clean code – GSS (civilservice.gov.uk) and an Introduction to unit testing – GSS (civilservice.gov.uk). You can view such opportunities via:
+
 *	[A user-friendly list (but not updated since Jan 2021)](https://www.gov.uk/guidance/af-learning-curriculum-technical)
 *	[GSS Training Courses (many which are open to all analysts)](https://gss.civilservice.gov.uk/training-courses/)
 
@@ -49,10 +51,11 @@ Paid Datacamp licenses are beneficial to cover gaps in current training provisio
 
 ## Other assistance
 Technical help can be requested via the following DASD slack channels: 
-•	intro_R which provides support to those starting out in the world of R and RAP.
-•	R which is for beginners and experts alike.
-•	sql
-•	python
+
+* intro_R which provides support to those starting out in the world of R and RAP.
+*	R which is for beginners and experts alike.
+*	sql
+*	python
 
 You may also find useful a trello board providing Links to further free online analytical training including in R and R cheatsheets.
 
