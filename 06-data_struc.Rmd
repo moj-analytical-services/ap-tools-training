@@ -1,0 +1,13 @@
+# Develop your process against a defined set of standards {#standards}
+
+A RAP, standing for Reproducible Analytical Pipeline, is a production methodology for automating the steps involved in creating a statistical report. It is a series of practices that focus on reproducibility –at any point in the future we should be able to look back at this work and be able to reproduce everything that we have done today.
+
+There are various ways of measuring how well a RAP project meets these aims. The chart below shows a range of steps along that process, with Stages 4a onwards considered to be ‘RAP’.
+
+```{r, echo = FALSE}
+knitr::include_graphics(rep("assets/RAP MVP.png"))
+```
+
+You may also wish to consider the [RAP Minimum Viable Product](https://github.com/best-practice-and-impact/rap_mvp_maturity_guidance/blob/master/Reproducible-Analytical-Pipelines-MVP.md)
+
+Within all these methods, there is an emphasis on good coding practices. You should followe the [DASD Coding Principles](https://moj-analytical-services.github.io/our-coding-standards/principles.html) within your project.

@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>3 Version Control with Git Flow | RAP Manual</title>
+  <meta name="description" content="This is an instructional document serving to help analysts in MoJ with RAPping their publications." />
+  <meta name="generator" content="bookdown 0.21 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="3 Version Control with Git Flow | RAP Manual" />
+  <meta property="og:type" content="book" />
+  
+  
+  <meta property="og:description" content="This is an instructional document serving to help analysts in MoJ with RAPping their publications." />
+  
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="3 Version Control with Git Flow | RAP Manual" />
+  
+  <meta name="twitter:description" content="This is an instructional document serving to help analysts in MoJ with RAPping their publications." />
+  
+
+<meta name="author" content="MoJ RAP Manual Working Group" />
+
+
+<meta name="date" content="2021-08-11" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+<link rel="prev" href="rap-struc.html"/>
+<link rel="next" href="data-struc.html"/>
+<script src="libs/header-attrs-2.7/header-attrs.js"></script>
+<script src="libs/jquery-2.2.3/jquery.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+
+<script src="libs/accessible-code-block-0.0.1/empty-anchor.js"></script>
+
+
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li><a href="./">MoJ RAP Manual</a></li>
+
+<li class="divider"></li>
+<li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> Intro to statistics publication RAP</a></li>
+<li class="chapter" data-level="2" data-path="rap-struc.html"><a href="rap-struc.html"><i class="fa fa-check"></i><b>2</b> RAP Structure</a>
+<ul>
+<li class="chapter" data-level="2.1" data-path="rap-struc.html"><a href="rap-struc.html#use-one-repo-for-each-endpoint-in-your-process"><i class="fa fa-check"></i><b>2.1</b> Use one repo for each endpoint in your process</a></li>
+<li class="chapter" data-level="2.2" data-path="rap-struc.html"><a href="rap-struc.html#common-structure-to-a-rap-repo"><i class="fa fa-check"></i><b>2.2</b> Common structure to a RAP repo</a></li>
+</ul></li>
+<li class="chapter" data-level="3" data-path="git-flow.html"><a href="git-flow.html"><i class="fa fa-check"></i><b>3</b> Version Control with Git Flow</a></li>
+<li class="chapter" data-level="4" data-path="data-struc.html"><a href="data-struc.html"><i class="fa fa-check"></i><b>4</b> Data Structures</a></li>
+<li class="chapter" data-level="5" data-path="generalisable-code.html"><a href="generalisable-code.html"><i class="fa fa-check"></i><b>5</b> Generalisable Code</a></li>
+<li class="chapter" data-level="6" data-path="standards.html"><a href="standards.html"><i class="fa fa-check"></i><b>6</b> Develop your process against a defined set of standards</a></li>
+<li class="divider"></li>
+<li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">RAP Manual</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="git_flow" class="section level1" number="3">
+<h1><span class="header-section-number">3</span> Version Control with Git Flow</h1>
+<p>Git Flow is an ideal workflow for Git and GitHub to allow collaboration and development of new features.</p>
+<p>It is based on three types of branch:</p>
+<ol style="list-style-type: decimal">
+<li>Master – the live version of the code, managed by an administrator. No editing is done on this branch.</li>
+<li>Development – a staging area for testing finished features together, before getting merged into the live master branch</li>
+<li>Features – these branches are used for individual new features. When a new feature is worked on, before testing it with other new features it gets developed on its own branch, which can be collaborated on by multiple people. When a feature is finished and had unit testing completed, it can be merged into the development branch.</li>
+</ol>
+<p>This will also feed in to the categorisation of a release within GitHub. Within RAP, each release should align with a finalised process for the production of a single publication. This means that in future we can easily revert code to its state at the point of publication and easily recreate old data if needed.</p>
+<p>For more information, see <a href="https://web.microsoftstream.com/video/fcf60e66-e7fe-4bf7-9ab4-e2c692637018">Learn to love Github with Git Flow</a>.</p>
+
+</div>
+            </section>
+
+          </div>
+        </div>
+      </div>
+<a href="rap-struc.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="data-struc.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/lunr.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": {
+"github": false,
+"facebook": true,
+"twitter": true,
+"linkedin": false,
+"weibo": false,
+"instapaper": false,
+"vk": false,
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+},
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": null,
+"text": null
+},
+"history": {
+"link": null,
+"text": null
+},
+"view": {
+"link": null,
+"text": null
+},
+"download": ["bookdown-template.pdf", "bookdown-template.epub"],
+"toc": {
+"collapse": "subsection"
+}
+});
+});
+</script>
+
+</body>
+
+</html>

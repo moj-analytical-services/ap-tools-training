@@ -1,0 +1,13 @@
+# Version Control with Git Flow {#git_flow}
+
+Git Flow is an ideal workflow for Git and GitHub to allow collaboration and development of new features.
+
+It is based on three types of branch:
+
+1.	Master – the live version of the code, managed by an administrator. No editing is done on this branch.
+2.	Development – a staging area for testing finished features together, before getting merged into the live master branch 
+3.	Features – these branches are used for individual new features. When a new feature is worked on, before testing it with other new features it gets developed on its own branch, which can be collaborated on by multiple people. When a feature is finished and had unit testing completed, it can be merged into the development branch.
+
+This will also feed in to the categorisation of a release within GitHub. Within RAP, each release should align with a finalised process for the production of a single publication. This means that in future we can easily revert code to its state at the point of publication and easily recreate old data if needed.
+
+For more information, see [Learn to love Github with Git Flow](https://web.microsoftstream.com/video/fcf60e66-e7fe-4bf7-9ab4-e2c692637018).

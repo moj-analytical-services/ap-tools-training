@@ -1,0 +1,29 @@
+--- 
+title: "Analytical Platform and related tools training"
+author: "MoJ coding training leads"
+date: "`r Sys.Date()`"
+bibliography:
+- book.bib
+- packages.bib
+description: This document provides information about using Analytical Platform and related tools training resources.
+documentclass: book
+link-citations: yes
+site: bookdown::bookdown_site
+biblio-style: apalike
+---
+
+# Intro to statistics publication RAP {#rap_intro}
+
+RAP stands for “Reproducible Analytical Pipeline”.
+
+**Reproducible**: Meaning that at any point in the future we should be able to look back at this work and be able to reproduce everything that we have done today. No more getting queries about a publication from five years ago and searching around to try to find how a figure was calculated.
+
+**Pipeline**: Meaning an end-to-end system that is as close as possible as a ‘one click’ process for turning source data into useful analytical outputs. These should ideally be produced to be 'future-proof' or easily maintainable to take account of new developments (eg. package updates/data changes)
+
+There are a range of different approaches to RAP. Within MoJ, we would like to prioritise the production of harmonised, understandable data files as a primary RAP output, from which additional outputs, such as publication text, charts and tables can be built along with other uses of the data, such as data visualisations. This guide applies principally to the development of RAP processes for the production of statistical publications.
+
+The diagram below illustrates how a full analytical pipeline might look at a high level:
+
+```{r, echo = FALSE}
+knitr::include_graphics(rep("assets/Data Reporting process map.png"))
+```
