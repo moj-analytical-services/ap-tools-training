@@ -15,7 +15,7 @@ biblio-style: apalike
 # Summary of available resources {#summary}
 
 ## Getting set up on the Analytical Platform
-Please follow the steps in the [Getting Started section of the Analytical Platform User Guide](https://user-guidance.services.alpha.mojanalytics.xyz/get-started.html#get-started). To use R you then need to access the [Analytical Platform Control Panel](https://controlpanel.services.alpha.mojanalytics.xyz/tools/) and from there open RStudio. 
+Please follow the steps in the [Getting Started section of the Analytical Platform User Guide](https://user-guidance.services.alpha.mojanalytics.xyz/get-started.html#get-started). To use the Analytical Platform you then need to access the [Analytical Platform Control Panel](https://controlpanel.services.alpha.mojanalytics.xyz/tools/) and from there open the relevant tool (e.g. RStudio for R). 
 
 As code written on the Analytical Platform should be stored in a Git repository on GitHub, complete the steps [to configure Git and GitHub for the Analytical Platform](https://user-guidance.services.alpha.mojanalytics.xyz/github.html#setup-github-keys-to-access-it-from-r-studio-and-jupyter).
 
@@ -31,6 +31,7 @@ The live R, SQL and GitHub training sessions are generally run twice or three ti
 *	[R Markdown](https://github.com/moj-analytical-services/rmarkdown_training)
 *	[Interfacing Excel with R](https://github.com/moj-analytical-services/r-excel-training)
 *	[Writing Functions in R](https://github.com/moj-analytical-services/writing_functions_in_r)
+*	[Developing R packages & RAP ways of working](https://github.com/moj-analytical-services/rpackage_training)
 *	[Introduction to SQL](https://github.com/moj-analytical-services/sql_training)
 
 The recordings of the R and SQL training sessions (the Introduction to GitHub session has not yet been recorded) are stored on MS Stream in the links below:
