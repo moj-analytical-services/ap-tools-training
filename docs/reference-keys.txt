@@ -1,4 +1,5 @@
 summary
+getting-set-up-on-the-analytical-platform
 r-mentoring
 internal-r-and-sql-training-group-materials
 coffee-and-coding-and-bitesize-sessions
