@@ -15,9 +15,9 @@ biblio-style: apalike
 # Summary of available resources {#summary}
 
 ## Getting set up on the Analytical Platform
-Please follow the steps in the [Getting Started section of the Analytical Platform User Guide](https://user-guidance.services.alpha.mojanalytics.xyz/get-started.html#get-started). To use R you need to be able to access the [Analytical Platform Control Panel](https://controlpanel.services.alpha.mojanalytics.xyz/tools/) and from there can open RStudio. 
+Please follow the steps in the [Getting Started section of the Analytical Platform User Guide](https://user-guidance.services.alpha.mojanalytics.xyz/get-started.html#get-started). To use R you then need to access the [Analytical Platform Control Panel](https://controlpanel.services.alpha.mojanalytics.xyz/tools/) and from there open RStudio. 
 
-You should then complete the steps [to configure Git and GitHub for the Analytical Platform](https://user-guidance.services.alpha.mojanalytics.xyz/github.html#setup-github-keys-to-access-it-from-r-studio-and-jupyter).
+As code written on the Analytical Platform should be stored in a Git repository on GitHub, complete the steps [to configure Git and GitHub for the Analytical Platform](https://user-guidance.services.alpha.mojanalytics.xyz/github.html#setup-github-keys-to-access-it-from-r-studio-and-jupyter).
 
 ## R mentoring
 It is recommended that all who are new to R or DASD request an R mentor. The purpose of the scheme is to provide a better on-the-job R learning experience and raise awareness of the preferred DASD ways of working that will for instance enable people to get up to speed more quickly with others’ code. The scheme is also open to non-coders who need to use the Analytical Platform to advise them through the learning process, and for those commencing a more complex project involving the use of R. To request an R mentor please complete [this mentee form](https://forms.office.com/Pages/ResponsePage.aspx?id=KEeHxuZx_kGp4S6MNndq2PdkMZw8L-FEkMSL2t4Oet1UQVlWMUwzOVZRNUVKSTVZU0pPTUY0MDlZTSQlQCN0PWcu). If you could become an R mentor (we have a shortage of mentors) please complete [this mentor form](https://forms.office.com/Pages/ResponsePage.aspx?id=KEeHxuZx_kGp4S6MNndq2PdkMZw8L-FEkMSL2t4Oet1UNUw1N1M0NVNQSTNOVkdHOUtMQ1lMT0lHTSQlQCN0PWcu). For more information please contact Jessica Dawson.
