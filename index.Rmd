@@ -1,6 +1,6 @@
 --- 
 title: "Analytical Platform and related tools training"
-author: "MoJ coding training leads"
+author: "MoJ coding training leads (the Analytical Platform team is not responsible for the content on this page)"
 date: "`r Sys.Date()`"
 bibliography:
 - book.bib
