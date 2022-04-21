@@ -9,3 +9,4 @@ other-assistance
 AP
 quick-start
 about-the-analytical-platform
+summary-of-key-terms

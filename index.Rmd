@@ -78,6 +78,8 @@ To gain an overview about the Analytical Platform:
 - Watch this 2-3 min [introductory video](https://www.youtube.com/watch?v=5467Hl3X9EI&t=95s) about the Analytical Platform.
 - Read the user guidance section [About the Analytical Platform](https://user-guidance.services.alpha.mojanalytics.xyz/about.html#about-the-analytical-platform).
 
+It may now help you to faimiliarise yourself with the [key terms](https://moj-analytical-services.github.io/ap-tools-training/AP.html#summary-of-key- terms) used.
+
 To gain a more in-depth knowledge of key topics:
 
 - Read about [how data are held on the Analytical Platform and finding the data you need](https://user-guidance.services.alpha.mojanalytics.xyz/data/#dropShadow). You can read about the three different data storage options (Amazon S3, Curated databases and home directories). 
@@ -85,3 +87,15 @@ To gain a more in-depth knowledge of key topics:
 - Read about working with [Amazon S3](https://user-guidance.services.alpha.mojanalytics.xyz/data/amazon-s3/#amazon-s3), including how to [upload data files](https://user-guidance.services.alpha.mojanalytics.xyz/data/amazon-s3/#upload-files-to-amazon-s3) and [download data files](https://user-guidance.services.alpha.mojanalytics.xyz/data/amazon-s3/#download-or-read-files-from-amazon-s3) using Amazon S3.
 - Read about [information governance procedures](https://user-guidance.services.alpha.mojanalytics.xyz/information-governance.html#content) to be followed, in particular when moving any data onto the Analytical Platform, when a [data movement form](https://user-guidance.services.alpha.mojanalytics.xyz/information-governance.html#data-movement-form) must be completed.
 - Read about data [retention policies](https://user-guidance.services.alpha.mojanalytics.xyz/information-governance.html#data-retention) including when deleting data means they are permanently deleted. 
+
+## Summary of key terms
+- **Analytical Platform (AP)**: A data analysis environment providing modern tools and key datasets for MoJ analysts. AP contains training documents, resources, and access to various analytical software such as Rstudio and Jupyter.
+- **Control Panel**: A place to navigate to Rstudio, Jupyter, S3 Buckets etc
+- **RStudio**: Development environment for writing R code and R Shiny apps
+- **JupyterLab**: Development environment for writing Python code including Python notebooks
+- **Git**: The software that looks after the version control of code
+- **GitHub**: the website on which you publish and share your version-controlled code. You use Git to track versions of your code, and then submit those changes to Github. 
+- **GitHub Repositories (Repo)**: similar to setting up a project folder on DOM1 shared drive to save work and share with others. Files on Github Repos represent definitive version of project. Everyone who works on project makes contributions from their own personal versions.
+- **Amazon S3**: A web-based cloud storage platform. Where your home directory stores working copies of code, data and final analytical outputs should be stored in Amazon S3. Access to amazon S3 buckets can be managed. 
+- **Slack**: Collaboration tool where you can get technical support for Analytical Platform tools such as R, Python, Git. You can share knowledge, submit admin requests and communicate quickly with other AP users.
+
