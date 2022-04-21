@@ -1,8 +1,11 @@
 summary
-getting-set-up-on-the-analytical-platform
+the-analytical-platform
 r-mentoring
 internal-r-and-sql-training-group-materials
 coffee-and-coding-and-bitesize-sessions
 analytical-function-training-opportunities
 datacamp
 other-assistance
+AP
+quick-start
+about-the-analytical-platform
