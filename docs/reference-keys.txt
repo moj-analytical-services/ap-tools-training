@@ -7,6 +7,7 @@ analytical-function-training-opportunities
 datacamp
 other-assistance
 AP
-quick-start
-about-the-analytical-platform
+introduction
 summary-of-key-terms
+get-set-up
+key-topics
