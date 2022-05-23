@@ -82,7 +82,7 @@ It will help you to be familiar with the following key terms:
 - **RStudio**: Development environment for writing R code and R Shiny apps
 - **JupyterLab**: Development environment for writing Python code including Python notebooks
 - **Git**: Version control software that enables multiple people to make separate changes at the same time.
-- **GitHub**: A web-based interface that uses Git and on which you publish and share your version-controlled code. You use Git to track versions of your code, and then submit those changes to Github. 
+- **GitHub**: A web-based interface that uses Git and on which you publish and share your version-controlled code. You use Git locally (e.g. using RStudio) to track versions of your code, and then submit those changes to Github. 
 - **GitHub Repositories (Repo)**: Similar to setting up a project folder on DOM1 shared drive to save work and share with others. Files on Github Repos represent the definitive version of the project. Everyone who works on the project makes contributions from their own personal versions.
 - **Amazon S3**: A web-based cloud storage platform. Where your home directory stores working copies of code, data and final analytical outputs should be stored in Amazon S3. Access to amazon S3 buckets can be managed. 
 - **Slack**: Collaboration tool where you can get technical support for Analytical Platform tools such as R, Python, Git. You can share knowledge, submit admin requests and communicate quickly with other AP users.
