@@ -81,18 +81,23 @@ It will help you to be familiar with the following key terms:
 - **Control Panel**: A place to navigate to Rstudio, Jupyter, S3 Buckets etc
 - **RStudio**: Development environment for writing R code and R Shiny apps
 - **JupyterLab**: Development environment for writing Python code including Python notebooks
-- **Git**: The software that looks after the version control of code
-- **GitHub**: the website on which you publish and share your version-controlled code. You use Git to track versions of your code, and then submit those changes to Github. 
-- **GitHub Repositories (Repo)**: similar to setting up a project folder on DOM1 shared drive to save work and share with others. Files on Github Repos represent definitive version of project. Everyone who works on project makes contributions from their own personal versions.
+- **Git**: Version control software that enables multiple people to make separate changes at the same time.
+- **GitHub**: A web-based interface that uses Git and on which you publish and share your version-controlled code. You use Git to track versions of your code, and then submit those changes to Github. 
+- **GitHub Repositories (Repo)**: Similar to setting up a project folder on DOM1 shared drive to save work and share with others. Files on Github Repos represent the definitive version of the project. Everyone who works on the project makes contributions from their own personal versions.
 - **Amazon S3**: A web-based cloud storage platform. Where your home directory stores working copies of code, data and final analytical outputs should be stored in Amazon S3. Access to amazon S3 buckets can be managed. 
 - **Slack**: Collaboration tool where you can get technical support for Analytical Platform tools such as R, Python, Git. You can share knowledge, submit admin requests and communicate quickly with other AP users.
 
-## Get set up
+## Getting set up
 First, so that you can request any help you need when getting set up on the Analytical Platform, it is recommended that you join the [Data and Analysis Slack](https://app.slack.com/client/T1PU1AP6D/C4PF7QAJZ). You can read a very brief overview [here](#other-assistance) with further information including how to sign-up [here](https://user-guidance.services.alpha.mojanalytics.xyz/get-started.html#3-slack-account).
 
-Now follow the steps in the [Getting Started section of the Analytical Platform User Guide](https://user-guidance.services.alpha.mojanalytics.xyz/get-started.html#get-started). To use the Analytical Platform you then need to access the [Analytical Platform Control Panel](https://controlpanel.services.alpha.mojanalytics.xyz/tools/) and from there open the relevant tool (e.g. RStudio for R). 
+Second, follow the steps in the [Getting Started section of the Analytical Platform User Guide](https://user-guidance.services.alpha.mojanalytics.xyz/get-started.html#get-started). You need to:
 
-As code written on the Analytical Platform should be stored in a Git repository on GitHub, complete the steps [to configure Git and GitHub for the Analytical Platform](https://user-guidance.services.alpha.mojanalytics.xyz/github.html#setup-github-keys-to-access-it-from-r-studio-and-jupyter).
+- Set up a [GitHub account with two-factor authentication](https://user-guidance.services.alpha.mojanalytics.xyz/get-started.html#1-github-account).   
+- Set up a [Analytical Platform account](https://user-guidance.services.alpha.mojanalytics.xyz/get-started.html#2-analytical-platform-account).  
+
+Once you have completed the above two steps, you should be able to access the [Analytical Platform Control Panel](https://controlpanel.services.alpha.mojanalytics.xyz/tools/) and from there open the relevant tool (e.g. RStudio for R). 
+
+Lastly, as code written on the Analytical Platform should be stored in a Git repository on GitHub, complete the steps [to configure Git and GitHub for the Analytical Platform](https://user-guidance.services.alpha.mojanalytics.xyz/github.html#setup-github-keys-to-access-it-from-r-studio-and-jupyter). You can learn more about GitHub by viewing [this introduction](https://digital.gov/resources/an-introduction-github/) and by attending [the internal introduction to GitHub](https://moj-analytical-services.github.io/ap-tools-training/index.html#internal-r-and-sql-training-group-materials)
 
 ## Key topics
 Once you have got set up on the Analytical Platform, do read about:
