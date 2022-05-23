@@ -15,7 +15,7 @@ biblio-style: apalike
 # Summary of available resources {#summary}
 
 ## The Analytical Platform
-The Analytical Platform is a data analysis environment, enabling the use of modern open source tools such as R and Python, and holding key datasets for MoJ analysts. Watch [this 2-3 min video](https://www.youtube.com/watch?v=5467Hl3X9EI&t=95s) to gain a brief summary about it.
+The Analytical Platform is a data analysis environment, enabling the use of modern open source tools such as R and Python, and holding key datasets for MoJ analysts. 
 
 To learn more about the Analytical Platform and to get up and running, go to the [Analytical Platform](#AP) chapter. More extensive information is provided by the [Platform user guidance](https://user-guidance.services.alpha.mojanalytics.xyz/#content).
 
@@ -68,10 +68,9 @@ You may also find useful a trello board providing [Links to further free online 
 # Analytical Platform {#AP}
 
 ## Introduction
-To gain an overview about the Analytical Platform:
+To gain an overview of the Analytical Platform watch this 2-3 min [introductory video](https://www.youtube.com/watch?v=5467Hl3X9EI&t=95s).
 
-- Watch this 2-3 min [introductory video](https://www.youtube.com/watch?v=5467Hl3X9EI&t=95s) about the Analytical Platform.
-- Read the user guidance section [About the Analytical Platform](https://user-guidance.services.alpha.mojanalytics.xyz/about.html#about-the-analytical-platform).
+For more technical details, read the user guidance section [About the Analytical Platform](https://user-guidance.services.alpha.mojanalytics.xyz/about.html#about-the-analytical-platform).
 
 ## Summary of key terms
 It will help you to be familiar with the following key terms:
