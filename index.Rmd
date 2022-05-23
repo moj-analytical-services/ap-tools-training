@@ -17,10 +17,12 @@ biblio-style: apalike
 ## The Analytical Platform
 The Analytical Platform is a data analysis environment, enabling the use of modern open source tools such as R and Python, and holding key datasets for MoJ analysts. 
 
-To learn more about the Analytical Platform and to get up and running, go to the [Analytical Platform](#AP) chapter. More extensive information is provided by the [Platform user guidance](https://user-guidance.services.alpha.mojanalytics.xyz/#content).
+To learn more about the Analytical Platform and to get up and running, go to the [Analytical Platform](#AP) chapter. More extensive information is provided by the [Analytical Platform user guidance](https://user-guidance.services.alpha.mojanalytics.xyz/#content).
 
 ## R mentoring
-It is recommended that all who are new to R or DASD request an R mentor. The purpose of the scheme is to provide a better on-the-job R learning experience and raise awareness of the preferred DASD ways of working that will for instance enable people to get up to speed more quickly with others’ code. The scheme is also open to non-coders who need to use the Analytical Platform to advise them through the learning process, and for those commencing a more complex project involving the use of R. To request an R mentor please complete [this mentee form](https://forms.office.com/Pages/ResponsePage.aspx?id=KEeHxuZx_kGp4S6MNndq2PdkMZw8L-FEkMSL2t4Oet1UQVlWMUwzOVZRNUVKSTVZU0pPTUY0MDlZTSQlQCN0PWcu). If you could become an R mentor (we have a shortage of mentors) please complete [this mentor form](https://forms.office.com/Pages/ResponsePage.aspx?id=KEeHxuZx_kGp4S6MNndq2PdkMZw8L-FEkMSL2t4Oet1UNUw1N1M0NVNQSTNOVkdHOUtMQ1lMT0lHTSQlQCN0PWcu). For more information please contact Jessica Dawson.
+It is recommended that all who are new to R or DASD request an R mentor. The purpose of the scheme is to provide a better on-the-job R learning experience and raise awareness of the preferred DASD ways of working that will for instance enable people to get up to speed more quickly with others’ code. The scheme is also open to non-coders who need to use the Analytical Platform to advise them through the learning process, and for those commencing a more complex project involving the use of R. 
+
+To request an R mentor please complete [this mentee form](https://forms.office.com/Pages/ResponsePage.aspx?id=KEeHxuZx_kGp4S6MNndq2PdkMZw8L-FEkMSL2t4Oet1UQVlWMUwzOVZRNUVKSTVZU0pPTUY0MDlZTSQlQCN0PWcu). If you could become an R mentor (we have a shortage of mentors) please complete [this mentor form](https://forms.office.com/Pages/ResponsePage.aspx?id=KEeHxuZx_kGp4S6MNndq2PdkMZw8L-FEkMSL2t4Oet1UNUw1N1M0NVNQSTNOVkdHOUtMQ1lMT0lHTSQlQCN0PWcu). For more information please contact Jessica Dawson.
 
 ## Internal R (and SQL) Training Group materials
 The live R, SQL and GitHub training sessions are generally run twice or three times each year. However, recordings are available so you can work through yourself. These sessions are run using the MoJ Analytical Platform so they are recommended for those working in DASD (or with the Analytical Platform). You can view the material (in the Github repositories) at:
@@ -53,7 +55,9 @@ There are now many technical Analytical Function training opportunities for anal
 *	[GSS Training Courses (many which are open to all analysts)](https://gss.civilservice.gov.uk/training-courses/)
 
 ## Datacamp
-Paid Datacamp licenses are beneficial to cover gaps in current training provision that are not picked up by either internal or GSS/Analytical function training currently e.g. more advanced R, SQL, and python skills. You can read more about Datacamp [here](https://www.datacamp.com/). If you would like to have a Datacamp license please get approval from your deputy director and contact Aidan Mews.
+Paid Datacamp licenses are beneficial to cover gaps in current training provision that are not picked up by either internal or GSS/Analytical function training currently e.g. more advanced R, SQL, and python skills. You can read more about Datacamp [here](https://www.datacamp.com/). 
+
+If you would like to have a Datacamp license please contact Aidan Mews or Rosina Costello providing a brief explanation about why it will be important for your work along with approval from your deputy director.
 
 ## Other assistance
 Technical help can be requested via the following [DASD slack channels](https://asdslack.slack.com/): 
@@ -68,9 +72,7 @@ You may also find useful a trello board providing [Links to further free online 
 # Analytical Platform {#AP}
 
 ## Introduction
-To gain an overview of the Analytical Platform watch this 2-3 min [introductory video](https://www.youtube.com/watch?v=5467Hl3X9EI&t=95s).
-
-For more technical details, read the user guidance section [About the Analytical Platform](https://user-guidance.services.alpha.mojanalytics.xyz/about.html#about-the-analytical-platform).
+To gain an overview of the Analytical Platform watch this 2-3 min [introductory video](https://www.youtube.com/watch?v=5467Hl3X9EI&t=95s). For more technical details, you can also read the user guidance section [About the Analytical Platform](https://user-guidance.services.alpha.mojanalytics.xyz/about.html#about-the-analytical-platform).
 
 ## Summary of key terms
 It will help you to be familiar with the following key terms:
@@ -86,7 +88,7 @@ It will help you to be familiar with the following key terms:
 - **Slack**: Collaboration tool where you can get technical support for Analytical Platform tools such as R, Python, Git. You can share knowledge, submit admin requests and communicate quickly with other AP users.
 
 ## Get set up
-First, so that you can request any help you need when getting set up on the Analytical Platform, it is recomemnded that you join the [Data and Analysis Slack](https://app.slack.com/client/T1PU1AP6D/C4PF7QAJZ). You can read more about this [here](https://user-guidance.services.alpha.mojanalytics.xyz/get-started.html#3-slack-account).
+First, so that you can request any help you need when getting set up on the Analytical Platform, it is recommended that you join the [Data and Analysis Slack](https://app.slack.com/client/T1PU1AP6D/C4PF7QAJZ). You can read a very brief overview [here](#other-assistance) with further information including how to sign-up [here](https://user-guidance.services.alpha.mojanalytics.xyz/get-started.html#3-slack-account).
 
 Now follow the steps in the [Getting Started section of the Analytical Platform User Guide](https://user-guidance.services.alpha.mojanalytics.xyz/get-started.html#get-started). To use the Analytical Platform you then need to access the [Analytical Platform Control Panel](https://controlpanel.services.alpha.mojanalytics.xyz/tools/) and from there open the relevant tool (e.g. RStudio for R). 
 
