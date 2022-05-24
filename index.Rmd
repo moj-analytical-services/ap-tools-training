@@ -99,8 +99,8 @@ Once you have completed the above two steps, you should be able to access the [A
 
 Lastly, as code written on the Analytical Platform should be stored in a Git repository on GitHub, complete the steps [to configure Git and GitHub for the Analytical Platform](https://user-guidance.services.alpha.mojanalytics.xyz/github.html#setup-github-keys-to-access-it-from-r-studio-and-jupyter). You can learn more about GitHub by viewing [this introduction](https://digital.gov/resources/an-introduction-github/) and by attending [the internal introduction to GitHub](https://moj-analytical-services.github.io/ap-tools-training/index.html#internal-r-and-sql-training-group-materials)
 
-## Key topics
-Once you have got set up on the Analytical Platform, do read about:
+## Managing data
+Once you have got set up on the Analytical Platform, do read about the following data management/handling topics:
 
 - [How data are held on the Analytical Platform and finding the data you need](https://user-guidance.services.alpha.mojanalytics.xyz/data/#dropShadow). You can read about the three different data storage options (Amazon S3, Curated databases and home directories). 
 - Working with [Amazon S3](https://user-guidance.services.alpha.mojanalytics.xyz/data/amazon-s3/#amazon-s3), including how to [upload data files](https://user-guidance.services.alpha.mojanalytics.xyz/data/amazon-s3/#upload-files-to-amazon-s3) and [download data files](https://user-guidance.services.alpha.mojanalytics.xyz/data/amazon-s3/#download-or-read-files-from-amazon-s3) using Amazon S3.
