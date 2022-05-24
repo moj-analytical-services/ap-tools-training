@@ -9,5 +9,5 @@ other-assistance
 AP
 introduction
 summary-of-key-terms
-get-set-up
+getting-set-up
 key-topics
