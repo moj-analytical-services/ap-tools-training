@@ -97,7 +97,9 @@ Second, follow the steps in the [Getting Started section of the Analytical Platf
 
 Once you have completed the above two steps, you should be able to access the [Analytical Platform Control Panel](https://controlpanel.services.alpha.mojanalytics.xyz/tools/) and from there open the relevant tool (e.g. RStudio for R). 
 
-Lastly, as code written on the Analytical Platform should be stored in a Git repository on GitHub, complete the steps [to configure Git and GitHub for the Analytical Platform](https://user-guidance.services.alpha.mojanalytics.xyz/github.html#setup-github-keys-to-access-it-from-r-studio-and-jupyter). You can learn more about GitHub by viewing [this introduction](https://digital.gov/resources/an-introduction-github/) and by attending [the internal introduction to GitHub](https://moj-analytical-services.github.io/ap-tools-training/index.html#internal-r-and-sql-training-group-materials)
+Third, as code written on the Analytical Platform should be stored in a Git repository on GitHub, complete the steps [to configure Git and GitHub for the Analytical Platform](https://user-guidance.services.alpha.mojanalytics.xyz/github.html#setup-github-keys-to-access-it-from-r-studio-and-jupyter). You can learn more about GitHub by viewing [this introduction](https://digital.gov/resources/an-introduction-github/) and by attending [the internal introduction to GitHub](https://moj-analytical-services.github.io/ap-tools-training/index.html#internal-r-and-sql-training-group-materials).
+
+For those that need to get set up to use Athena databases for SQL (in R or Athena) on the Analytical Platform, please follow the additional instructions in the “Training Requirements” section of the [Introduction to SQL training repository](https://github.com/moj-analytical-services/sql_training). 
 
 ## Managing data
 Once you have got set up on the Analytical Platform, do read about the following data management/handling topics:
