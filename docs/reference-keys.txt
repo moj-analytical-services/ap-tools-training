@@ -2,12 +2,6 @@ summary
 the-analytical-platform
 r-mentoring
 internal-training-group-materials
-r
-github
-sql
-python
-recordings
-get-involved
 coffee-and-coding-and-bitesize-sessions
 analytical-function-training-opportunities
 datacamp

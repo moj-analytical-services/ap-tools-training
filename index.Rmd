@@ -28,7 +28,7 @@ To request an R mentor please complete [this mentee form](https://forms.office.c
 
 This internal training is recommended for those working in Data and Analysis (or with the Analytical Platform) as it is run using the MoJ Analytical Platform. There are live R, SQL and GitHub training sessions, which are generally run in February/March, June/July and October/November each year. You can also work through the R and SQL sessions yourself using the training material and recordings. There is also Python training in development; we are considering how best to run these.  You can view the material (in the Github repositories) at:
 
-### R
+### R {-}
 
 * [Introduction to R](https://github.com/moj-analytical-services/IntroRTraining)
 * [R Charting](https://github.com/moj-analytical-services/ggplotTraining)
@@ -37,29 +37,29 @@ This internal training is recommended for those working in Data and Analysis (or
 *	[Writing Functions in R](https://github.com/moj-analytical-services/writing_functions_in_r)
 *	[Developing R packages & RAP ways of working](https://github.com/moj-analytical-services/rpackage_training)
 
-### GitHub 
+### GitHub {-}
 
 *	[Introduction to GitHub](https://github.com/moj-analytical-services/git-training-class)
 
-### SQL
+### SQL {-}
 
 *	[Introduction to SQL](https://github.com/moj-analytical-services/sql_training)
 
-### Python
+### Python {-}
 
 These have not yet been run as live sessions, but you can work through the material at your own pace.
 
 * [Introduction to Python](https://github.com/moj-analytical-services/intro-to-python)
 * [AWS Tooling demos](https://github.com/moj-analytical-services/mojap-aws-tools-demo)
 
-### Recordings
+### Recordings {-}
 
 The recordings of the R and SQL training sessions are stored on MS Stream in the links below:
 
 * [R training MS Stream Channel](https://web.microsoftstream.com/channel/aa3cda5d-99d6-4e9d-ac5e-6548dd55f52a)
 *	[SQL training MS Stream Channel](https://web.microsoftstream.com/channel/7cd1cdaf-79cb-4e1e-ab2b-448d8f69f6a1)
 
-### Get involved!
+### Get involved! {-}
 
 One great way of learning is by teaching. If you would be interested in being part of the R, SQl and/or Python training groups, whether booking courses/allocating places, designing training, or presenting, please contact Aidan Mews, Georgina Eaton or George Kelly.
 
