@@ -17,3 +17,4 @@ introduction
 summary-of-key-terms
 getting-set-up
 managing-data
+books
