@@ -1,0 +1,40 @@
+# Analytical Platform {#AP}
+
+## Introduction
+To gain an overview of the Analytical Platform watch this 2-3 min [introductory video](https://www.youtube.com/watch?v=5467Hl3X9EI&t=95s). For more technical details, you can also read the user guidance section [About the Analytical Platform](https://user-guidance.services.alpha.mojanalytics.xyz/about.html#about-the-analytical-platform).
+
+## Summary of key terms
+It will help you to be familiar with the following key terms:
+
+- **Analytical Platform (AP)**: A data analysis environment providing modern tools and key datasets for MoJ analysts. AP contains training documents, resources, and access to various analytical software such as Rstudio and Jupyter.
+- **Control Panel**: A place to navigate to Rstudio, Jupyter, S3 Buckets etc
+- **RStudio**: Development environment for writing R code and R Shiny apps
+- **JupyterLab**: Development environment for writing Python code including Python notebooks
+- **Git**: Version control software that enables multiple people to make separate changes at the same time.
+- **GitHub**: A web-based interface that uses Git and on which you publish and share your version-controlled code. You use Git locally (e.g. using RStudio) to track versions of your code, and then submit those changes to Github. 
+- **GitHub Repositories (Repo)**: Similar to setting up a project folder on DOM1 shared drive to save work and share with others. Files on Github Repos represent the definitive version of the project. Everyone who works on the project makes contributions from their own personal versions.
+- **Amazon S3**: A web-based cloud storage platform. Where your home directory stores working copies of code, data and final analytical outputs should be stored in Amazon S3. Access to amazon S3 buckets can be managed. 
+- **Slack**: Collaboration tool where you can get technical support for Analytical Platform tools such as R, Python, Git. You can share knowledge, submit admin requests and communicate quickly with other AP users.
+
+## Getting set up
+First, so that you can request any help you need when getting set up on the Analytical Platform, it is recommended that you join the [Data and Analysis Slack](https://app.slack.com/client/T1PU1AP6D/C4PF7QAJZ). You can read a very brief overview [here](#other-assistance) with further information including how to sign-up [here](https://user-guidance.services.alpha.mojanalytics.xyz/get-started.html#3-slack-account).
+
+Second, follow the steps in the [Getting Started section of the Analytical Platform User Guide](https://user-guidance.services.alpha.mojanalytics.xyz/get-started.html#get-started). You need to:
+
+- Set up a [GitHub account with two-factor authentication](https://user-guidance.services.alpha.mojanalytics.xyz/get-started.html#1-github-account).   
+- Set up a [Analytical Platform account](https://user-guidance.services.alpha.mojanalytics.xyz/get-started.html#2-analytical-platform-account).  
+
+Once you have completed the above two steps, you should be able to access the [Analytical Platform Control Panel](https://controlpanel.services.alpha.mojanalytics.xyz/tools/) and from there open the relevant tool (e.g. RStudio for R). 
+
+Third, as code written on the Analytical Platform should be stored in a Git repository on GitHub, complete the steps [to configure Git and GitHub for the Analytical Platform](https://user-guidance.services.alpha.mojanalytics.xyz/github.html#setup-github-keys-to-access-it-from-r-studio-and-jupyter). You can learn more about GitHub by viewing [this introduction](https://digital.gov/resources/an-introduction-github/) and by attending [the internal introduction to GitHub](https://moj-analytical-services.github.io/ap-tools-training/index.html#internal-r-and-sql-training-group-materials).
+
+For those that need to get set up to use Athena databases for SQL (in R or Athena) on the Analytical Platform, please follow the additional instructions in the “Training Requirements” section of the [Introduction to SQL training repository](https://github.com/moj-analytical-services/sql_training). 
+
+## Managing data
+Once you have got set up on the Analytical Platform, do read about the following data management/handling topics:
+
+- [How data are held on the Analytical Platform and finding the data you need](https://user-guidance.services.alpha.mojanalytics.xyz/data/#dropShadow). You can read about the three different data storage options (Amazon S3, Curated databases and home directories). 
+- Working with [Amazon S3](https://user-guidance.services.alpha.mojanalytics.xyz/data/amazon-s3/#amazon-s3), including how to [upload data files](https://user-guidance.services.alpha.mojanalytics.xyz/data/amazon-s3/#upload-files-to-amazon-s3) and [download data files](https://user-guidance.services.alpha.mojanalytics.xyz/data/amazon-s3/#download-or-read-files-from-amazon-s3) using Amazon S3.
+- [Information governance procedures](https://user-guidance.services.alpha.mojanalytics.xyz/information-governance.html#content) to be followed, in particular when moving any data onto the Analytical Platform, when a [data movement form](https://user-guidance.services.alpha.mojanalytics.xyz/information-governance.html#data-movement-form) must be completed.
+- Data [retention policies](https://user-guidance.services.alpha.mojanalytics.xyz/information-governance.html#data-retention) including when deleting data means they are permanently deleted. 
+

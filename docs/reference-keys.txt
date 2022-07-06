@@ -11,3 +11,9 @@ introduction
 summary-of-key-terms
 getting-set-up
 managing-data
+ITG
+r-training
+github-training
+sql-training
+python-training
+get-involved
