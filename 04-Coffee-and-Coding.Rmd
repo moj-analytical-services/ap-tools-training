@@ -9,9 +9,9 @@ The aim of the MoJ Coffee and Coding presentations is to nurture, enable and enc
 * Provide advice and guidance to each other
 * Network and get to know each other
 
-Code can be shared from any language - whether R, SAS, SQL, Python, or other more specialised languages.
+Code can be shared from any language — whether R, Python, SQL, or other more specialised languages.
 
-The format is generally 30—40 minutes for a presentation, followed by time for questions. The presentations usually take the form of a demonstration of a tool or technique and/or a show and tell of work done within the department using these methods.
+The format is generally 30–40 minutes for a presentation, followed by time for questions. The presentations usually take the form of a demonstration of a tool or technique and/or a show and tell of work done within the department using these methods.
 
 ## Recorded presentations
 
@@ -41,4 +41,4 @@ You can find code examples to go along with past Coffee and Coding presentations
 
 We are always looking for new presentations. If you have an idea for a talk you would like to give, or if you want to showcase a coding project you have been working on, please contact the Coffee and Coding mailbox.
 
-If you have feedback or suggestions for the Coffee and Coding team, we would love to hear it. You can respond to our open feedback form here.
+If you have feedback or suggestions for the Coffee and Coding team, we would love to hear from you. You can respond to our open [feedback form here](https://forms.office.com/Pages/ResponsePage.aspx?id=KEeHxuZx_kGp4S6MNndq2LJ-K_TrglJJiRCGr1CniahUNEpVWklDQUROR1g4OEE1TlZORldCWFJVTSQlQCN0PWcu).
