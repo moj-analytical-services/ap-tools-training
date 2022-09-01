@@ -1,0 +1,288 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{book}
+\title{Analytical Platform and related tools training}
+\author{MoJ coding training leads (the Analytical Platform team is not responsible for the content on this page)}
+\date{2022-09-01}
+
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  pdftitle={Analytical Platform and related tools training},
+  pdfauthor={MoJ coding training leads (the Analytical Platform team is not responsible for the content on this page)},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{5}
+\usepackage{booktabs}
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\usepackage[]{natbib}
+\bibliographystyle{apalike}
+
+\begin{document}
+\maketitle
+
+{
+\setcounter{tocdepth}{1}
+\tableofcontents
+}
+\hypertarget{summary}{%
+\chapter{Summary of available resources}\label{summary}}
+
+\hypertarget{the-analytical-platform}{%
+\section{The Analytical Platform}\label{the-analytical-platform}}
+
+The Analytical Platform is a data analysis environment, enabling the use of modern open source tools such as R and Python, and holding key datasets for MoJ analysts.
+
+To learn more about the Analytical Platform and to get up and running, go to the \protect\hyperlink{AP}{Analytical Platform} chapter. More extensive information is provided by the \href{https://user-guidance.services.alpha.mojanalytics.xyz/\#content}{Analytical Platform user guidance}.
+
+\hypertarget{r-mentoring}{%
+\section{R mentoring}\label{r-mentoring}}
+
+It is recommended that all who are new to R or Data and Analysis request an R mentor. The purpose of the scheme is to provide a better on-the-job R learning experience and raise awareness of the preferred Data and Analysis ways of working that will for instance enable people to get up to speed more quickly with others' code. The scheme is also open to non-coders who need to use the Analytical Platform to advise them through the learning process, and for those commencing a more complex project involving the use of R.
+
+To request an R mentor please complete \href{https://forms.office.com/Pages/ResponsePage.aspx?id=KEeHxuZx_kGp4S6MNndq2PdkMZw8L-FEkMSL2t4Oet1UQVlWMUwzOVZRNUVKSTVZU0pPTUY0MDlZTSQlQCN0PWcu}{this mentee form}. If you could become an R mentor (we have a shortage of mentors) please complete \href{https://forms.office.com/Pages/ResponsePage.aspx?id=KEeHxuZx_kGp4S6MNndq2PdkMZw8L-FEkMSL2t4Oet1UNUw1N1M0NVNQSTNOVkdHOUtMQ1lMT0lHTSQlQCN0PWcu}{this mentor form}. For more information please contact Jessica Dawson.
+
+\hypertarget{internal-training-group-materials}{%
+\section{Internal Training Group materials}\label{internal-training-group-materials}}
+
+This internal training is recommended for those working in Data and Analysis as it enables you to get up and running with R, SQL, Python and GitHub using the MoJ Analytical Platform. The main introductory R, SQL and GitHub sessions are run live in February/March, June/July and October/November each year while you can also work through R, SQL and Python sessions yourself using the training material and/or recordings. To learn more about the sessions currently available and how to access the material and recordings, go to the \protect\hyperlink{ITG}{Internal Training Group materials} chapter.
+
+\hypertarget{coffee-and-coding-and-bitesize-sessions}{%
+\section{Coffee and Coding and Bitesize sessions}\label{coffee-and-coding-and-bitesize-sessions}}
+
+The internal training (see above) is complemented by \href{https://web.microsoftstream.com/channel/f6aa6c5d-e90c-44b7-8ccc-28a318fa0630}{coffee and coding} and \href{https://web.microsoftstream.com/channel/5a6012a2-efd6-4b86-902d-98c864427caa}{bitesize} sessions. The contacts are Katharine Breeze and George Papadopoulos respectively.
+
+\hypertarget{analytical-function-training-opportunities}{%
+\section{Analytical Function training opportunities}\label{analytical-function-training-opportunities}}
+
+There are now many technical Analytical Function training opportunities for analysts including about topics not presently covered internally e.g.~an introduction to python. Examples useful for RAP practitioners include \href{https://gss.civilservice.gov.uk/training/best-practice-in-programming-clean-code/}{Best practice in programming -- clean code -- GSS (civilservice.gov.uk)} and an \href{Introduction\%20to\%20unit\%20testing\%20–\%20GSS\%20(civilservice.gov.uk)}{Introduction to unit testing -- GSS (civilservice.gov.uk)}. You can view such opportunities via:
+
+\begin{itemize}
+\tightlist
+\item
+  \href{https://www.gov.uk/guidance/af-learning-curriculum-technical}{A user-friendly list (but not updated since Jan 2021)}
+\item
+  \href{https://gss.civilservice.gov.uk/training-courses/}{GSS Training Courses (many which are open to all analysts)}
+\end{itemize}
+
+\hypertarget{datacamp}{%
+\section{Datacamp}\label{datacamp}}
+
+Paid Datacamp licenses are beneficial to cover gaps in current training provision that are not picked up by either internal or GSS/Analytical function training currently e.g.~more advanced R, SQL, and Python skills. You can read more about Datacamp \href{https://www.datacamp.com/business/partners/MoJ-and-datacamp-partnership}{here}.
+
+If you would like to have a Datacamp license please contact Aidan Mews or Rosina Costello providing a brief explanation about why it will be important for your work along with approval from your deputy director.
+
+\hypertarget{other-assistance}{%
+\section{Other assistance}\label{other-assistance}}
+
+Technical help can be requested via the following \href{https://asdslack.slack.com/}{Data and Analysis slack channels}:
+
+\begin{itemize}
+\tightlist
+\item
+  intro\_R which provides support to those starting out in the world of R and RAP.
+\item
+  R which is for beginners and experts alike.
+\item
+  sql
+\item
+  python
+\end{itemize}
+
+You may also find useful a trello board providing \href{https://trello.com/b/D5pSkqnT/online-analytical-training}{Links to further free online analytical training including in R} and \href{https://rstudio.com/resources/cheatsheets/}{R cheatsheets}.
+
+\hypertarget{AP}{%
+\chapter{Analytical Platform}\label{AP}}
+
+\hypertarget{introduction}{%
+\section{Introduction}\label{introduction}}
+
+To gain an overview of the Analytical Platform watch this 2-3 min \href{https://www.youtube.com/watch?v=5467Hl3X9EI\&t=95s}{introductory video}. For more technical details, you can also read the user guidance section \href{https://user-guidance.services.alpha.mojanalytics.xyz/about.html\#about-the-analytical-platform}{About the Analytical Platform}.
+
+\hypertarget{summary-of-key-terms}{%
+\section{Summary of key terms}\label{summary-of-key-terms}}
+
+It will help you to be familiar with the following key terms:
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Analytical Platform (AP)}: A data analysis environment providing modern tools and key datasets for MoJ analysts. AP contains training documents, resources, and access to various analytical software such as Rstudio and Jupyter.
+\item
+  \textbf{Control Panel}: A place to navigate to Rstudio, Jupyter, S3 Buckets etc
+\item
+  \textbf{RStudio}: Development environment for writing R code and R Shiny apps
+\item
+  \textbf{JupyterLab}: Development environment for writing Python code including Python notebooks
+\item
+  \textbf{Git}: Version control software that enables multiple people to make separate changes at the same time.
+\item
+  \textbf{GitHub}: A web-based interface that uses Git and on which you publish and share your version-controlled code. You use Git locally (e.g.~using RStudio) to track versions of your code, and then submit those changes to Github.
+\item
+  \textbf{GitHub Repositories (Repo)}: Similar to setting up a project folder on DOM1 shared drive to save work and share with others. Files on Github Repos represent the definitive version of the project. Everyone who works on the project makes contributions from their own personal versions.
+\item
+  \textbf{Amazon S3}: A web-based cloud storage platform. Where your home directory stores working copies of code, data and final analytical outputs should be stored in Amazon S3. Access to amazon S3 buckets can be managed.
+\item
+  \textbf{Slack}: Collaboration tool where you can get technical support for Analytical Platform tools such as R, Python, Git. You can share knowledge, submit admin requests and communicate quickly with other AP users.
+\end{itemize}
+
+\hypertarget{getting-set-up}{%
+\section{Getting set up}\label{getting-set-up}}
+
+First, so that you can request any help you need when getting set up on the Analytical Platform, it is recommended that you join the \href{https://app.slack.com/client/T1PU1AP6D/C4PF7QAJZ}{Data and Analysis Slack}. You can read a very brief overview \protect\hyperlink{other-assistance}{here} with further information including how to sign-up \href{https://user-guidance.services.alpha.mojanalytics.xyz/get-started.html\#3-slack-account}{here}.
+
+Second, follow the steps in the \href{https://user-guidance.services.alpha.mojanalytics.xyz/get-started.html\#get-started}{Getting Started section of the Analytical Platform User Guide}. You need to:
+
+\begin{itemize}
+\tightlist
+\item
+  Set up a \href{https://user-guidance.services.alpha.mojanalytics.xyz/get-started.html\#1-github-account}{GitHub account with two-factor authentication}.\\
+\item
+  Set up a \href{https://user-guidance.services.alpha.mojanalytics.xyz/get-started.html\#2-analytical-platform-account}{Analytical Platform account}.
+\end{itemize}
+
+Once you have completed the above two steps, you should be able to access the \href{https://controlpanel.services.alpha.mojanalytics.xyz/tools/}{Analytical Platform Control Panel} and from there open the relevant tool (e.g.~RStudio for R).
+
+Third, as code written on the Analytical Platform should be stored in a Git repository on GitHub, complete the steps \href{https://user-guidance.services.alpha.mojanalytics.xyz/github.html\#setup-github-keys-to-access-it-from-r-studio-and-jupyter}{to configure Git and GitHub for the Analytical Platform}. You can learn more about GitHub by viewing \href{https://digital.gov/resources/an-introduction-github/}{this introduction} and by attending \href{https://moj-analytical-services.github.io/ap-tools-training/index.html\#internal-r-and-sql-training-group-materials}{the internal introduction to GitHub}.
+
+For those that need to get set up to use Athena databases for SQL (in R or Athena) on the Analytical Platform, please follow the additional instructions in the ``Training Requirements'' section of the \href{https://github.com/moj-analytical-services/sql_training}{Introduction to SQL training repository}.
+
+\hypertarget{managing-data}{%
+\section{Managing data}\label{managing-data}}
+
+Once you have got set up on the Analytical Platform, do read about the following data management/handling topics:
+
+\begin{itemize}
+\tightlist
+\item
+  \href{https://user-guidance.services.alpha.mojanalytics.xyz/data/\#dropShadow}{How data are held on the Analytical Platform and finding the data you need}. You can read about the three different data storage options (Amazon S3, Curated databases and home directories).
+\item
+  Working with \href{https://user-guidance.services.alpha.mojanalytics.xyz/data/amazon-s3/\#amazon-s3}{Amazon S3}, including how to \href{https://user-guidance.services.alpha.mojanalytics.xyz/data/amazon-s3/\#upload-files-to-amazon-s3}{upload data files} and \href{https://user-guidance.services.alpha.mojanalytics.xyz/data/amazon-s3/\#download-or-read-files-from-amazon-s3}{download data files} using Amazon S3.
+\item
+  \href{https://user-guidance.services.alpha.mojanalytics.xyz/information-governance.html\#content}{Information governance procedures} to be followed, in particular when moving any data onto the Analytical Platform, when a \href{https://user-guidance.services.alpha.mojanalytics.xyz/information-governance.html\#data-movement-form}{data movement form} must be completed.
+\item
+  Data \href{https://user-guidance.services.alpha.mojanalytics.xyz/information-governance.html\#data-retention}{retention policies} including when deleting data means they are permanently deleted.
+\end{itemize}
+
+\hypertarget{ITG}{%
+\chapter{Internal Training Group materials}\label{ITG}}
+
+This internal training is recommended for those working in Data and Analysis as it is run using the MoJ Analytical Platform. There are live R, SQL and GitHub training sessions, which are generally run in February/March, June/July and October/November each year. You can also work through the R and SQL sessions yourself using the training material and recordings. There is also Python training in development; we are considering how best to run these.
+
+\hypertarget{r-training}{%
+\section{R Training}\label{r-training}}
+
+The following sessions are available; click on the links to view the material in the GitHub repositories. The first two are particularly recommended for new starters.
+
+\begin{itemize}
+\tightlist
+\item
+  \href{https://github.com/moj-analytical-services/IntroRTraining}{Introduction to R}
+\item
+  \href{https://github.com/moj-analytical-services/ggplotTraining}{R Charting}
+\item
+  \href{https://github.com/moj-analytical-services/rmarkdown_training}{R Markdown}
+\item
+  \href{https://github.com/moj-analytical-services/r-excel-training}{Interfacing Excel with R}
+\item
+  \href{https://github.com/moj-analytical-services/writing_functions_in_r}{Writing Functions in R}
+\item
+  \href{https://github.com/moj-analytical-services/rpackage_training}{Developing R packages \& RAP ways of working}
+\end{itemize}
+
+The recordings of these R training sessions are available on the \href{https://web.microsoftstream.com/channel/aa3cda5d-99d6-4e9d-ac5e-6548dd55f52a}{R training MS Stream Channel}.
+
+\hypertarget{github-training}{%
+\section{GitHub Training}\label{github-training}}
+
+Whether seeking to use R, SQL or Python, it is recommended that all newcomers attend this \href{https://github.com/moj-analytical-services/git-training-class}{Introduction to GitHub} (click on link to view material in GitHub repository) session.
+
+\hypertarget{sql-training}{%
+\section{SQL Training}\label{sql-training}}
+
+All newcomers who are to use SQL should attend the \href{https://github.com/moj-analytical-services/sql_training}{Introduction to SQL} (click on link to view material in GitHub repository) session. A recording of this session is available on the \href{https://web.microsoftstream.com/channel/7cd1cdaf-79cb-4e1e-ab2b-448d8f69f6a1}{SQL training MS Stream Channel}.
+
+\hypertarget{python-training}{%
+\section{Python Training}\label{python-training}}
+
+These have not yet been run as live sessions, but you can work through the material at your own pace.
+
+\begin{itemize}
+\tightlist
+\item
+  \href{https://github.com/moj-analytical-services/intro-to-python}{Introduction to Python}
+\item
+  \href{https://github.com/moj-analytical-services/mojap-aws-tools-demo}{AWS Tooling demos}
+\end{itemize}
+
+\hypertarget{get-involved}{%
+\section{Get involved!}\label{get-involved}}
+
+One great way of learning is by teaching. If you would be interested in being part of the R, SQl and/or Python training groups, whether booking courses/allocating places, designing training, or presenting, please contact Aidan Mews, Georgina Eaton or George Kelly.
+
+If you have any questions please contact Aidan Mews, Georgina Eaton or George Kelly.
+
+  \bibliography{book.bib,packages.bib}
+
+\end{document}
