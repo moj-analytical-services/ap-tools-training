@@ -28,8 +28,11 @@ To request an R mentor please complete [this mentee form](https://forms.office.c
 
 This internal training is recommended for those working in Data and Analysis as it enables you to get up and running with R, SQL, Python and GitHub using the MoJ Analytical Platform. The main introductory R, SQL and GitHub sessions are run live in February/March, June/July and October/November each year while you can also work through R, SQL and Python sessions yourself using the training material and/or recordings. To learn more about the sessions currently available and how to access the material and recordings, go to the [Internal Training Group materials](#ITG) chapter.
 
-## Coffee and Coding and Bitesize sessions
-The internal training (see above) is complemented by [Coffee and Coding](#CC) and [bitesize](https://web.microsoftstream.com/channel/5a6012a2-efd6-4b86-902d-98c864427caa) sessions. For Coffee and Coding please contact the mailbox: Coffee-and-Coding [at] justice.gov.uk. For Bitesize sessions the contact is George Papadopoulos.
+## Coffee and Coding
+The internal training (see above) is complemented by [Coffee and Coding](#CC) presentations. These presentations usually take the form of a demonstration of a tool or technique and/or a show and tell of work done within the department using particular coding methods. For any queries contact the mailbox: Coffee-and-Coding [at] justice.gov.uk.
+
+## Bitesize sessions
+There are also shorter [Bitesize](https://web.microsoftstream.com/channel/5a6012a2-efd6-4b86-902d-98c864427caa) sessions on a variety of topics. For more information please contact George Papadopoulos.
 
 ## Analytical Function training opportunities
 There are now many technical Analytical Function training opportunities for analysts including about topics not presently covered internally e.g. an introduction to python. Examples useful for RAP practitioners include [Best practice in programming – clean code – GSS (civilservice.gov.uk)](https://gss.civilservice.gov.uk/training/best-practice-in-programming-clean-code/) and an [Introduction to unit testing – GSS (civilservice.gov.uk)](Introduction to unit testing – GSS (civilservice.gov.uk)). You can view such opportunities via:
