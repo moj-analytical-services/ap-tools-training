@@ -17,7 +17,7 @@ The format is generally 30–40 minutes for a presentation, followed by time for
 
 Where possible, Coffee and Coding presentations are recorded to allow people to catch up on talks they may have missed and to provide a useful training resource for colleagues.
 
-These recordings are available on the [Coffee and Coding Microsoft Stream Channel](https://web.microsoftstream.com/channel/f6aa6c5d-e90c-44b7-8ccc-28a318fa0630). Access should be granted to all new starters, but if you cannot access the videos please contact the Coffee and Coding mailbox.
+These recordings are available on the [Coffee and Coding Microsoft Stream Channel](https://web.microsoftstream.com/channel/f6aa6c5d-e90c-44b7-8ccc-28a318fa0630). We regularly update the access list, but if you cannot access the videos please contact the Coffee and Coding mailbox.
 
 ### Some useful talks
 
@@ -35,10 +35,10 @@ The full catalogue of recorded talks can be found [here](https://web.microsoftst
 
 ## Code repositories
 
-You can find code examples to go along with past Coffee and Coding presentations in our [private repo](https://github.com/moj-analytical-services/Coffee-and-Coding) (only accessible by members of the MoJ Analytical Services GitHub organisation) or [public repo](https://github.com/moj-analytical-services/Coffee-and-Coding-public).
+You can find code examples to go along with past Coffee and Coding presentations in our [private repo](https://github.com/moj-analytical-services/Coffee-and-Coding) (only accessible by members of the MoJ Analytical Services GitHub organisation).
 
 ## Get involved!
 
-We are always looking for new presentations. If you have an idea for a talk you would like to give, or if you want to showcase a coding project you have been working on, please contact the Coffee and Coding mailbox.
+We are always looking for new presentations. If you have an idea for a talk you would like to give, or if you want to showcase a coding project you have been working on, please contact the Coffee and Coding mailbox: Coffee-and-Coding [at] justice.gov.uk.
 
 If you have feedback or suggestions for the Coffee and Coding team, we would love to hear from you. You can respond to our open [feedback form here](https://forms.office.com/Pages/ResponsePage.aspx?id=KEeHxuZx_kGp4S6MNndq2LJ-K_TrglJJiRCGr1CniahUNEpVWklDQUROR1g4OEE1TlZORldCWFJVTSQlQCN0PWcu).
