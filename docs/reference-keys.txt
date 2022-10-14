@@ -2,7 +2,8 @@ summary
 the-analytical-platform
 r-mentoring
 internal-training-group-materials
-coffee-and-coding-and-bitesize-sessions
+coffee-and-coding
+bitesize-sessions
 analytical-function-training-opportunities
 datacamp
 other-assistance
@@ -17,3 +18,9 @@ github-training
 sql-training
 python-training
 get-involved
+CC
+about-coffee-and-coding
+recorded-presentations
+some-useful-talks
+code-repositories
+get-involved-1

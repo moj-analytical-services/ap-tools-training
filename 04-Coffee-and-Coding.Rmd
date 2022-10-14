@@ -39,6 +39,6 @@ You can find code examples to go along with past Coffee and Coding presentations
 
 ## Get involved!
 
-We are always looking for new presentations. If you have an idea for a talk you would like to give, or if you want to showcase a coding project you have been working on, please contact the Coffee and Coding mailbox: Coffee-and-Coding [at] justice.gov.uk.
+We are always looking for new presentations. If you have an idea for a talk you would like to give, or if you want to showcase a coding project you have been working on, please contact the [Coffee and Coding mailbox](mailto:Coffee-and-Coding@justice.gov.uk).
 
 If you have feedback or suggestions for the Coffee and Coding team, we would love to hear from you. You can respond to our open [feedback form here](https://forms.office.com/Pages/ResponsePage.aspx?id=KEeHxuZx_kGp4S6MNndq2LJ-K_TrglJJiRCGr1CniahUNEpVWklDQUROR1g4OEE1TlZORldCWFJVTSQlQCN0PWcu).
