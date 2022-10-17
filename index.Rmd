@@ -53,5 +53,7 @@ Technical help can be requested via the following [Data and Analysis slack chann
 *	sql
 *	python
 
-You may also find useful a trello board providing [Links to further free online analytical training including in R](https://trello.com/b/D5pSkqnT/online-analytical-training) and [R cheatsheets](https://rstudio.com/resources/cheatsheets/).
+You may also find useful a trello board providing [Links to further free online analytical training including in R](https://trello.com/b/D5pSkqnT/online-analytical-training) and [R cheatsheets](https://rstudio.com/resources/cheatsheets/). There are also many useful free R and Python books on the web, for instance for Python:
 
+* [Automate The Boring Stuff with Python](https://automatetheboringstuff.com/) (Good for Python Fundamentals)
+* [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
