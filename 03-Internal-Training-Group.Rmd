@@ -29,6 +29,9 @@ These have not yet been run as live sessions, but you can work through the mater
 
 * [Introduction to Python](https://github.com/moj-analytical-services/intro-to-python)
 * [AWS Tooling demos](https://github.com/moj-analytical-services/mojap-aws-tools-demo)
+* [Pyspark in AP](https://github.com/moj-analytical-services/pyspark-in-AP-guidance)
+* [Prisoid Academy - Python Training](https://github.com/moj-analytical-services/Prisoid-Academy/tree/main/Python)
+* [Plotly Dash Coffee and Coding Session](https://github.com/moj-analytical-services/Coffee-and-Coding/tree/master/2020-04-14%20Python%20webapps%20using%20Plotly%20Dash)
 
 ## Get involved!
 
