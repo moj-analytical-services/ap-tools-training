@@ -43,7 +43,7 @@ There are now many technical Analytical Function training opportunities for anal
 ## Datacamp
 Paid Datacamp licenses are beneficial to cover gaps in current training provision that are not picked up by either internal or GSS/Analytical function training currently e.g. more advanced R, SQL, and Python skills. You can read more about Datacamp [here](https://www.datacamp.com/business/partners/MoJ-and-datacamp-partnership). 
 
-If you would like to have a Datacamp license please contact Aidan Mews or Rosina Costello providing a brief explanation about why it will be important for your work along with approval from your deputy director.
+If you would like to have a Datacamp license please contact Aidan Mews providing a brief explanation about why it will be important for your work along with approval from your deputy director.
 
 ## Other assistance
 Technical help can be requested via the following [Data and Analysis slack channels](https://asdslack.slack.com/): 
