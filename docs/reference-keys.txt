@@ -1,5 +1,6 @@
 summary
-the-analytical-platform
+analytical-it-tools-strategy
+analytical-platform
 r-mentoring
 internal-training-group-materials
 coffee-and-coding
