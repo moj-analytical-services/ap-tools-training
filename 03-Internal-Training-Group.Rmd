@@ -4,8 +4,9 @@ This internal training is recommended for those working in Data and Analysis as 
 
 ## R Training
 
-The following sessions are available; click on the links to view the material in the GitHub repositories. The first two are particularly recommended for new starters.   
+The following sessions are available; click on the links to view the material in the GitHub repositories. The first three are particularly recommended for new starters.   
 
+* [Introduction: Using R on the Analytical Platform](https://github.com/moj-analytical-services/intro_using_r_on_ap)
 * [Introduction to R](https://github.com/moj-analytical-services/IntroRTraining)
 * [R Charting](https://github.com/moj-analytical-services/ggplotTraining)
 * [Introduction to R +](https://github.com/moj-analytical-services/intro_r_training_extension)
