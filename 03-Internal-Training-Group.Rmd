@@ -15,7 +15,7 @@ The following sessions are available; click on the links to view the material in
 *	[Writing Functions in R](https://github.com/moj-analytical-services/writing_functions_in_r)
 *	[Developing R packages & RAP ways of working](https://github.com/moj-analytical-services/rpackage_training)
 
-The recordings of these R training sessions are available on the [R training MS Stream Channel](https://web.microsoftstream.com/channel/aa3cda5d-99d6-4e9d-ac5e-6548dd55f52a).
+The recordings of these R training sessions are either available in [the new R Training Video Library](https://justiceuk.sharepoint.com/:f:/s/RTrainingGroup/Ev1kwXxGaVNNpLwFg4drakUBNUpZz72DRdcD8PipkU-u9A?e=SQzeJL) or in the [old R training MS Stream Channel](https://web.microsoftstream.com/channel/aa3cda5d-99d6-4e9d-ac5e-6548dd55f52a).
 
 ## GitHub Training
 
