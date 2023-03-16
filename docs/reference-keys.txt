@@ -5,7 +5,7 @@ r-mentoring
 internal-training-group-materials
 coffee-and-coding
 bitesize-sessions
-analytical-function-training-opportunities
+analytical-function-training
 datacamp
 other-assistance
 AP

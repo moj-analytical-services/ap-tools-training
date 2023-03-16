@@ -29,7 +29,7 @@ To request an R mentor please complete [this mentee form](https://forms.office.c
 
 ## Internal Training Group materials
 
-This internal training is recommended for those working in Data and Analysis as it enables you to get up and running with R, SQL, Python and GitHub using the MoJ Analytical Platform. The main introductory R, SQL and GitHub sessions are run live in February/March, June/July and October/November each year while you can also work through R, SQL and Python sessions yourself using the training material and/or recordings. To learn more about the sessions currently available and how to access the material and recordings, go to the [Internal Training Group materials](#ITG) chapter.
+This internal training is recommended for those working in Data and Analysis as it enables you to get up and running with R, SQL, Python and GitHub using the MoJ Analytical Platform. The main introductory R, SQL and GitHub sessions are usually run live in February/March, June/July and October/November each year while you can also work through R, SQL and Python sessions yourself using the training material and/or recordings. To learn more about the sessions currently available and how to access the material and recordings, go to the [Internal Training Group materials](#ITG) chapter.
 
 ## Coffee and Coding
 The internal training (see above) is complemented by Coffee and Coding presentations. These presentations usually take the form of a demonstration of a tool or technique and/or a show and tell of work done within the department using particular coding methods. For more information go to the [Coffee and Coding](#CC) chapter.
