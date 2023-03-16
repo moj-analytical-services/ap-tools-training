@@ -37,11 +37,11 @@ The internal training (see above) is complemented by Coffee and Coding presentat
 ## Bitesize sessions
 There are also shorter [Bitesize](https://web.microsoftstream.com/channel/5a6012a2-efd6-4b86-902d-98c864427caa) sessions on a variety of topics. For more information please contact Aidan Mews.
 
-## Analytical Function training opportunities
-There are now many technical Analytical Function training opportunities for analysts including about topics not presently covered internally e.g. an introduction to python. Examples useful for RAP practitioners include [Best practice in programming – clean code – GSS (civilservice.gov.uk)](https://gss.civilservice.gov.uk/training/best-practice-in-programming-clean-code/) and an [Introduction to unit testing – GSS (civilservice.gov.uk)](Introduction to unit testing – GSS (civilservice.gov.uk)). You can view such opportunities via:
+## Analytical Function training
+There are many Analytical Function training opportunities for analysts including about specialist topics not presently covered internally. Examples useful for RAP practitioners include [Best practice in programming – clean code](https://analysisfunction.civilservice.gov.uk/training/best-practice-in-programming-clean-code/) and a more lengthy [Introduction to unit testing](https://analysisfunction.civilservice.gov.uk/training/introduction-to-unit-testing/). You can learn more about such opportunities via:
 
-*	[A user-friendly list (but not updated since Jan 2021)](https://www.gov.uk/guidance/af-learning-curriculum-technical)
-*	[GSS Training Courses (many which are open to all analysts)](https://gss.civilservice.gov.uk/training-courses/)
+*	[The Analytical Function Learning Curriculam)](https://analysisfunction.civilservice.gov.uk/learning-development/learning-curriculum/)
+*	[The Analytical Function Training Courses)](https://analysisfunction.civilservice.gov.uk/training-courses/)
 
 ## Datacamp
 Paid Datacamp licenses are beneficial to cover gaps in current training provision that are not currently picked up by either internal or Analytical function training e.g. training in Power BI and more advanced or niche R, SQL, and Python skills. You can read more about Datacamp [here](https://www.datacamp.com/business/partners/MoJ-and-datacamp-partnership). 
