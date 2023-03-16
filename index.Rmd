@@ -44,9 +44,9 @@ There are now many technical Analytical Function training opportunities for anal
 *	[GSS Training Courses (many which are open to all analysts)](https://gss.civilservice.gov.uk/training-courses/)
 
 ## Datacamp
-Paid Datacamp licenses are beneficial to cover gaps in current training provision that are not picked up by either internal or GSS/Analytical function training currently e.g. more advanced R, SQL, and Python skills. You can read more about Datacamp [here](https://www.datacamp.com/business/partners/MoJ-and-datacamp-partnership). 
+Paid Datacamp licenses are beneficial to cover gaps in current training provision that are not currently picked up by either internal or Analytical function training e.g. training in Power BI and more advanced or niche R, SQL, and Python skills. You can read more about Datacamp [here](https://www.datacamp.com/business/partners/MoJ-and-datacamp-partnership). 
 
-If you would like to have a Datacamp license please contact Aidan Mews providing a brief explanation about why it will be important for your work along with approval from your deputy director.
+If you would like to have a Datacamp license please contact the [Data and Analysis People Team](mailto:dataandanalysislearningandwellbeing@justice.gov.uk) providing a brief explanation about why it will be important for your work along with approval from your G6 (further approval will be needed if you are outside Data and Analysis). 
 
 ## Other assistance
 Technical help can be requested via the following [Data and Analysis slack channels](https://asdslack.slack.com/): 
