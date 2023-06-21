@@ -1,7 +1,7 @@
 # Analytical Platform {#AP}
 
 ## Introduction
-To gain an overview of the Analytical Platform watch this 2-3 min [introductory video](https://www.youtube.com/watch?v=5467Hl3X9EI&t=95s). For more technical details, you can also read the user guidance section [About the Analytical Platform](https://user-guidance.services.alpha.mojanalytics.xyz/about.html#about-the-analytical-platform).
+To gain an overview of the Analytical Platform watch this 2-3 min [introductory video](https://www.youtube.com/watch?v=5467Hl3X9EI&t=95s). For more technical details, you can also read the user guidance section [About the Analytical Platform](https://user-guidance.analytical-platform.service.justice.gov.uk/index.html).
 
 ## Summary of key terms
 It will help you to be familiar with the following key terms:
@@ -17,16 +17,16 @@ It will help you to be familiar with the following key terms:
 - **Slack**: Collaboration tool where you can get technical support for Analytical Platform tools such as R, Python, Git. You can share knowledge, submit admin requests and communicate quickly with other AP users.
 
 ## Getting set up
-First, so that you can request any help you need when getting set up on the Analytical Platform, it is recommended that you join the [Data and Analysis Slack](https://app.slack.com/client/T1PU1AP6D/C4PF7QAJZ). You can read a very brief overview [here](#other-assistance) with further information including how to sign-up [here](https://user-guidance.services.alpha.mojanalytics.xyz/get-started.html#3-slack-account).
+First, so that you can request any help you need when getting set up on the Analytical Platform, it is recommended that you join the [Data and Analysis Slack](https://app.slack.com/client/T1PU1AP6D/C4PF7QAJZ). You can find out more about it [here](https://user-guidance.analytical-platform.service.justice.gov.uk/get-started.html#2-slack-account).
 
 Second, follow the steps in the [Getting Started section of the Analytical Platform User Guide](https://user-guidance.services.alpha.mojanalytics.xyz/get-started.html#get-started). You need to:
 
-- Set up a [GitHub account with two-factor authentication](https://user-guidance.services.alpha.mojanalytics.xyz/get-started.html#1-github-account).   
-- Set up a [Analytical Platform account](https://user-guidance.services.alpha.mojanalytics.xyz/get-started.html#2-analytical-platform-account).  
+- Set up a [GitHub account with two-factor authentication](https://user-guidance.analytical-platform.service.justice.gov.uk/get-started.html#1-github-account).   
+- Set up a [Analytical Platform account](https://user-guidance.analytical-platform.service.justice.gov.uk/get-started.html#3-analytical-platform-account).  
 
-Once you have completed the above two steps, you should be able to access the [Analytical Platform Control Panel](https://controlpanel.services.alpha.mojanalytics.xyz/tools/) and from there open the relevant tool (e.g. RStudio for R). 
+Once you have completed the above two steps, you should be able to access the [Analytical Platform Control Panel](https://controlpanel.services.analytical-platform.service.justice.gov.uk/tools/) and from there open the relevant tool (e.g. RStudio for R). 
 
-Third, as code written on the Analytical Platform should be stored in a Git repository on GitHub, complete the steps [to configure Git and GitHub for the Analytical Platform](https://user-guidance.services.alpha.mojanalytics.xyz/github.html#setup-github-keys-to-access-it-from-r-studio-and-jupyter). You can learn more about GitHub by viewing [this introduction](https://digital.gov/resources/an-introduction-github/) and by attending [the internal introduction to GitHub](https://moj-analytical-services.github.io/ap-tools-training/index.html#internal-r-and-sql-training-group-materials).
+Third, as code written on the Analytical Platform should be stored in a Git repository on GitHub, complete the steps [to configure Git and GitHub for the Analytical Platform](https://user-guidance.analytical-platform.service.justice.gov.uk/github/set-up-github.html#set-up-github). You can learn more about GitHub by viewing [this introduction](https://digital.gov/resources/an-introduction-github/) and by attending [the internal introduction to GitHub](https://moj-analytical-services.github.io/ap-tools-training/ITG.html#github-training).
 
 For those that need to get set up to use Athena databases for SQL (in R or Athena) on the Analytical Platform, please follow the additional instructions in the “Training Requirements” section of the [Introduction to SQL training repository](https://github.com/moj-analytical-services/sql_training). 
 
