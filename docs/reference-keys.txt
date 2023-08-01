@@ -2,7 +2,7 @@ summary
 analytical-it-tools-strategy
 analytical-platform
 r-mentoring
-internal-training-group-materials
+rsqlgitpython-training-groups
 coffee-and-coding
 bite-sized-sessions
 analytical-function-training

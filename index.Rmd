@@ -27,9 +27,9 @@ It is recommended that all who are new to R or Data and Analysis request an R me
 
 To request an R mentor please complete [this mentee form](https://forms.office.com/Pages/ResponsePage.aspx?id=KEeHxuZx_kGp4S6MNndq2PdkMZw8L-FEkMSL2t4Oet1UQVlWMUwzOVZRNUVKSTVZU0pPTUY0MDlZTSQlQCN0PWcu). If you could become an R mentor (we have a shortage of mentors) please complete [this mentor form](https://forms.office.com/Pages/ResponsePage.aspx?id=KEeHxuZx_kGp4S6MNndq2PdkMZw8L-FEkMSL2t4Oet1UNUw1N1M0NVNQSTNOVkdHOUtMQ1lMT0lHTSQlQCN0PWcu). For more information please contact Jose Vieira.
 
-## Internal Training Group materials
+## R/SQL/Git/Python Training Groups
 
-This internal training is recommended for those working in Data and Analysis as it enables you to get up and running with R, SQL, Python and Git/GitHub using the MoJ Analytical Platform. The main introductory R, SQL and Git/GitHub sessions are usually run live in February/March, June/July and October/November each year while you can also work through R, SQL, Git/GitHub and Python sessions yourself using the training material and/or recordings. To learn more about the sessions currently available and how to access the material and recordings, go to the [Internal Training Group materials](#ITG) chapter.
+Those working in Data and Analysis are recommended to take the internal training courses as they are run using the MoJ Analytical Platform. The main introductory R, SQL and Git/GitHub sessions are usually run live in February/March, June/July and October/November each year while you can also work through R, SQL, Git/GitHub and Python sessions yourself using the training material and/or recordings. To learn more about the sessions currently available and how to access the material and recordings, go to the [R/SQL/Git/Python Training Groups](#ITG) chapter.
 
 ## Coffee and Coding
 The internal training (see above) is complemented by Coffee and Coding presentations. These presentations usually take the form of a demonstration of a tool or technique and/or a show and tell of work done within the department using particular coding methods. For more information go to the [Coffee and Coding](#CC) chapter.
