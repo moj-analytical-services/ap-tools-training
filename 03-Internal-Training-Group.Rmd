@@ -39,6 +39,6 @@ These have not yet been run as live sessions, but you can work through the mater
 
 ## Get involved!
 
-One great way of learning is by teaching. If you would be interested in playing an active role, whether delivering, updating or designing training, or co-ordinating the courses, please contact Aidan Mews (R), Georgina Eaton (SQL), or Mike Radford (Python).
+One great way of learning is by teaching. If you would be interested in playing an active role, whether delivering, updating or designing training, or co-ordinating the courses, please contact Aidan Mews (R), Georgina Eaton (SQL), or Mike Ratford (Python).
 
-If you have any questions please contact Aidan Mews, Georgina Eaton or Mike Radford.
+If you have any questions please contact Aidan Mews, Georgina Eaton or Mike Ratford.
