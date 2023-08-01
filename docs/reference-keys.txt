@@ -16,7 +16,7 @@ getting-set-up
 managing-data
 ITG
 r-training
-github-training
+gitgithub-training
 sql-training
 python-training
 get-involved
