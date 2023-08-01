@@ -4,9 +4,10 @@ analytical-platform
 r-mentoring
 internal-training-group-materials
 coffee-and-coding
-bitesize-sessions
+bite-sized-sessions
 analytical-function-training
 datacamp
+slack
 other-assistance
 AP
 introduction
