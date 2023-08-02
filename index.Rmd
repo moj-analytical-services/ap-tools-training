@@ -67,6 +67,7 @@ Technical help can be requested via the following [Data and Analysis slack chann
 * intro_R - this provides support to those starting out in the world of R and RAP.
 *	R - this is for beginners and experts alike.
 *	sql
+* git
 *	python
 
 More information about Slack is available via the [Analytical Platform User Guidance](https://user-guidance.analytical-platform.service.justice.gov.uk/get-started.html#2-slack-account) and the [Data and Analysis Hive](https://justiceuk.sharepoint.com/sites/MoJDataAnalyticalCommunity/learningoffer/SitePages/What-is-Slack-and-how-to-use-it-.aspx).
