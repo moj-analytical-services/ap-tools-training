@@ -37,18 +37,20 @@ The internal training (see above) is complemented by Coffee and Coding presentat
 ## Bite-sized sessions
 There are also short sessions (generally talks of up to 15mins followed by Q/A) on a variety of topics including specialist as well as softer skills. Recent topics have included: 
 
+* New statistical methods guidance for MoJ analysts
+* How to use the Evidence Library to support your work
+* Prototyping - why, how and when?
 * Key components of RAP in MoJ coding projects
-* Learning and Development in 2023-24
 * ChatGPT for coding - Know your Frenemy
-* Conducting an RCT in the CJS; trying, failing & what could succeed next time
 * Hints and tips on public speaking
+* What are faith and belief?
 
 You can find recordings of bite-sized sessions:
 
 * from 2023 onwards in the [new video library](https://justiceuk.sharepoint.com/sites/dataandanalysisbitesizesessions/_layouts/15/video_collections.aspx). 
 * from before 2023 in the [old video library](https://web.microsoftstream.com/channel/5a6012a2-efd6-4b86-902d-98c864427caa).
 
-For more information including if you are interested in presenting a session or joining the bite-sized session facilitation team please contact Aidan Mews.
+For more information including if you are interested in presenting a session or joining the bite-sized session facilitation team please contact Aidan Mews or Edward Adams.
 
 ## Analytical Function training
 There are many Analytical Function training opportunities for analysts including about specialist topics not presently covered internally. Examples useful for RAP practitioners include [Best practice in programming – clean code](https://analysisfunction.civilservice.gov.uk/training/best-practice-in-programming-clean-code/) and a more lengthy [Introduction to unit testing](https://analysisfunction.civilservice.gov.uk/training/introduction-to-unit-testing/) than currently available internally. You can learn more about such opportunities via:
