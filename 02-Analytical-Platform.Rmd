@@ -17,16 +17,14 @@ It will help you to be familiar with the following key terms:
 - **Slack**: Collaboration tool where you can get technical support for Analytical Platform tools such as R, Python, Git. You can share knowledge, submit admin requests and communicate quickly with other AP users.
 
 ## Getting set up
-First, so that you can request any help you need when getting set up on the Analytical Platform, it is recommended that you join the [Data and Analysis Slack](https://app.slack.com/client/T1PU1AP6D/C4PF7QAJZ). You can find out more about it [here](https://user-guidance.analytical-platform.service.justice.gov.uk/get-started.html#2-slack-account).
+Follow the steps in the [Getting Started section of the Analytical Platform User Guide](https://user-guidance.services.alpha.mojanalytics.xyz/get-started.html#get-started). You need to:
 
-Second, follow the steps in the [Getting Started section of the Analytical Platform User Guide](https://user-guidance.services.alpha.mojanalytics.xyz/get-started.html#get-started). You need to:
+- Set up a [Slack account](https://user-guidance.analytical-platform.service.justice.gov.uk/get-started.html#2-create-slack-account).  
+- Set up a [GitHub account with two-factor authentication](https://user-guidance.analytical-platform.service.justice.gov.uk/get-started.html#3-create-github-account).   
+- Set up a [Analytical Platform account](https://user-guidance.analytical-platform.service.justice.gov.uk/get-started.html#4-access-the-analytical-platform).
+- Set up [RStudio](https://user-guidance.analytical-platform.service.justice.gov.uk/get-started.html#6-set-up-rstudio) to use R and/or [JupyterLab](https://user-guidance.analytical-platform.service.justice.gov.uk/get-started.html#5-set-up-jupyterlab) to use Python.
 
-- Set up a [GitHub account with two-factor authentication](https://user-guidance.analytical-platform.service.justice.gov.uk/get-started.html#1-github-account).   
-- Set up a [Analytical Platform account](https://user-guidance.analytical-platform.service.justice.gov.uk/get-started.html#3-analytical-platform-account).  
-
-Once you have completed the above two steps, you should be able to access the [Analytical Platform Control Panel](https://controlpanel.services.analytical-platform.service.justice.gov.uk/tools/) and from there open the relevant tool (e.g. RStudio for R). 
-
-Third, as code written on the Analytical Platform should be stored in a Git repository on GitHub, complete the steps [to configure Git and GitHub for the Analytical Platform](https://user-guidance.analytical-platform.service.justice.gov.uk/github/set-up-github.html#set-up-github). You can learn more about GitHub by viewing or attending [the internal Introduction to Git/GitHub](https://moj-analytical-services.github.io/ap-tools-training/ITG.html#github-training).
+You can learn more about GitHub by viewing or attending [the internal Introduction to Git/GitHub](https://moj-analytical-services.github.io/ap-tools-training/ITG.html#github-training).
 
 For those that need to get set up to use Athena databases for SQL (in R or Athena) on the Analytical Platform, please follow the additional instructions in the “Training Requirements” section of the [Introduction to SQL training repository](https://github.com/moj-analytical-services/sql_training). 
 
