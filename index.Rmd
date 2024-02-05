@@ -77,7 +77,12 @@ Technical help can be requested via the following [Data and Analysis slack chann
 More information about Slack including how to get set up is available via the [Analytical Platform User Guidance](https://user-guidance.analytical-platform.service.justice.gov.uk/get-started.html#2-create-slack-account) and the [Data and Analysis Hive](https://justiceuk.sharepoint.com/sites/MoJDataAnalyticalCommunity/learningoffer/SitePages/What-is-Slack-and-how-to-use-it-.aspx).
 
 ## Other assistance
-You may also find useful a trello board providing [Links to further free online analytical training including in R](https://trello.com/b/D5pSkqnT/online-analytical-training) and [R cheatsheets](https://rstudio.com/resources/cheatsheets/). There are also many useful free R and Python books on the web, for instance for Python:
+You may also find useful:
+
+* [Statistical Methods Guidance](https://moj-analytical-services.github.io/moj-statistical-methods-guidance/) on key topics for MoJ analysts with many of the signposted sources including R or Python code.
+* a trello board providing [links to further free online analytical training including in R or Python](https://trello.com/b/D5pSkqnT/online-analytical-training) and [R cheatsheets](https://rstudio.com/resources/cheatsheets/). 
+
+There are also many useful free R and Python books on the web, for instance for Python:
 
 * [Automate The Boring Stuff with Python](https://automatetheboringstuff.com/) (Good for Python Fundamentals)
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
