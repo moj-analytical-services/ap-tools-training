@@ -61,7 +61,7 @@ There are many Analytical Function training opportunities for analysts including
 ## Datacamp
 Paid Datacamp licenses are beneficial to cover gaps in current training provision that are not currently picked up by either internal or Analytical Function training e.g. training in Power BI and more advanced or niche R, SQL, and Python skills. You can read more about Datacamp [here](https://www.datacamp.com/business/partners/MoJ-and-datacamp-partnership). 
 
-If you need a Datacamp license please contact the [Data and Analysis People Team](mailto:dataandanalysislearningandwellbeing@justice.gov.uk) providing an explanation about why it is important along with approval from your Deputy Director. 
+If you need a Datacamp license please contact the [Data and Analysis People Team](mailto:dataandanalysislearningandwellbeing@justice.gov.uk) providing an explanation about why it is important along with approval from your G6. 
 
 ## Slack
 Technical help can be requested via the following [Data and Analysis slack channels](https://asdslack.slack.com/): 
