@@ -66,13 +66,15 @@ If you need a Datacamp license please contact the [Data and Analysis People Team
 ## Slack
 Technical help can be requested via the following [Data and Analysis slack channels](https://asdslack.slack.com/): 
 
-* intro_R - this provides support to those starting out in the world of R and RAP.
-*	R - this is for beginners and experts alike.
+* ask-operations-engineering - this provides support to those with Analytical Platform issues 
+* intro_R - this provides support to those starting out in the world of R
+*	R - this is for beginners and experts alike
 *	sql
 * git
 *	python
+* RAP
 
-More information about Slack is available via the [Analytical Platform User Guidance](https://user-guidance.analytical-platform.service.justice.gov.uk/get-started.html#2-slack-account) and the [Data and Analysis Hive](https://justiceuk.sharepoint.com/sites/MoJDataAnalyticalCommunity/learningoffer/SitePages/What-is-Slack-and-how-to-use-it-.aspx).
+More information about Slack including how to get set up is available via the [Analytical Platform User Guidance](https://user-guidance.analytical-platform.service.justice.gov.uk/get-started.html#2-create-slack-account) and the [Data and Analysis Hive](https://justiceuk.sharepoint.com/sites/MoJDataAnalyticalCommunity/learningoffer/SitePages/What-is-Slack-and-how-to-use-it-.aspx).
 
 ## Other assistance
 You may also find useful a trello board providing [Links to further free online analytical training including in R](https://trello.com/b/D5pSkqnT/online-analytical-training) and [R cheatsheets](https://rstudio.com/resources/cheatsheets/). There are also many useful free R and Python books on the web, for instance for Python:
