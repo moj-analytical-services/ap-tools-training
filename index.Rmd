@@ -64,7 +64,7 @@ There are many Analytical Function training opportunities for analysts including
 DataCamp licenses are beneficial to cover gaps in current training provision that are not currently picked up by either internal or Analytical Function training e.g. training in Power BI and more advanced or niche R, SQL, and Python skills.
 
 * Read more about DataCamp and signup for a license (paid for by MoJ) [via this landing page](https://www.datacamp.com/business/partners/MoJ-and-datacamp-partnership)
-* View this [March 2024 DataCamp Licence: Onboarding and Q&A Session](https://justiceuk.sharepoint.com/:v:/s/RTrainingGroup/EZVuye17Ln9On6IpVy0L6NYB1X0L_g4wCu1MRTlCjGUZIA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Kik2lD)
+* View this [March 2024 DataCamp Licence: Onboarding and Q&A Session](https://justiceuk.sharepoint.com/:v:/s/RTrainingGroup/EZVuye17Ln9On6IpVy0L6NYB1X0L_g4wCu1MRTlCjGUZIA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Kik2lD) and associated [onboarding slides](https://justiceuk.sharepoint.com/:b:/s/RTrainingGroup/ER1IVbnaCA9CocRvgAIh2uUBQVNfGruTOIuRJPfH7lEmxw?e=BBWtAU)
 * To access DataCamp on your mobile see [this internet link](https://www.datacamp.com/mobile)
 * DataCamp courses currently in development are shown by [this Trello board](https://trello.com/b/BLplifUB/datacamp-course-roadmap)
 
