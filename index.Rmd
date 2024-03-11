@@ -1,11 +1,13 @@
 --- 
 title: "Analytical Platform and related tools training"
-author: "MoJ coding training leads (the Analytical Platform team is not responsible for the content on this page)"
+author: MoJ coding training leads (the Analytical Platform team is not responsible
+  for the content on this page)
 date: "`r Sys.Date()`"
 bibliography:
 - book.bib
 - packages.bib
-description: This document provides information about using Analytical Platform and related tools training resources.
+description: This document provides information about using Analytical Platform and
+  related tools training resources.
 documentclass: book
 link-citations: yes
 site: bookdown::bookdown_site
@@ -59,7 +61,12 @@ There are many Analytical Function training opportunities for analysts including
 *	[The Analytical Function Training Courses](https://analysisfunction.civilservice.gov.uk/training-courses/)
 
 ## DataCamp
-Paid DataCamp licenses are beneficial to cover gaps in current training provision that are not currently picked up by either internal or Analytical Function training e.g. training in Power BI and more advanced or niche R, SQL, and Python skills. You can read more about DataCamp and signup for a license [via this landing page](https://www.datacamp.com/business/partners/MoJ-and-datacamp-partnership). 
+DataCamp licenses are beneficial to cover gaps in current training provision that are not currently picked up by either internal or Analytical Function training e.g. training in Power BI and more advanced or niche R, SQL, and Python skills.
+
+* Read more about DataCamp and signup for a license (paid for by MoJ) [via this landing page](https://www.datacamp.com/business/partners/MoJ-and-datacamp-partnership)
+* View this [March 2024 DataCamp Licence: Onboarding and Q&A Session](https://justiceuk.sharepoint.com/:v:/s/RTrainingGroup/EZVuye17Ln9On6IpVy0L6NYB1X0L_g4wCu1MRTlCjGUZIA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Kik2lD)
+* To access DataCamp on your mobile see [this internet link](https://www.datacamp.com/mobile)
+* DataCamp courses currently in development are shown by [this Trello board](https://trello.com/b/BLplifUB/datacamp-course-roadmap)
 
 ## Slack
 Technical help can be requested via the following [Data and Analysis slack channels](https://asdslack.slack.com/): 
