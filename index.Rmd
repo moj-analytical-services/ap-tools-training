@@ -2,7 +2,7 @@
 title: "Analytical Platform and related tools training"
 author: MoJ coding training leads (the Analytical Platform team is not responsible
   for the content on this page)
-date: "`r Sys.Date()`"
+date: '`r Sys.Date()`'
 bibliography:
 - book.bib
 - packages.bib
@@ -67,6 +67,7 @@ DataCamp licenses are beneficial to cover gaps in current training provision tha
 * View this [March 2024 DataCamp Licence: Onboarding and Q&A Session](https://justiceuk.sharepoint.com/:v:/s/RTrainingGroup/EZVuye17Ln9On6IpVy0L6NYB1X0L_g4wCu1MRTlCjGUZIA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Kik2lD) and associated [onboarding slides](https://justiceuk.sharepoint.com/:b:/s/RTrainingGroup/ER1IVbnaCA9CocRvgAIh2uUBQVNfGruTOIuRJPfH7lEmxw?e=BBWtAU)
 * To access DataCamp on your mobile see [this internet link](https://www.datacamp.com/mobile)
 * DataCamp courses currently in development are shown by [this Trello board](https://trello.com/b/BLplifUB/datacamp-course-roadmap)
+* Reach out to the DataCamp support team for any technical requests [via this internet link](https://sl.datacamp.com/t/100925/sc/640e4c47-4cac-46c1-90ed-0da22c35e9f6/NB2HI4DTHIXS643MFZSGC5DBMNQW24BOMNXW2L3UF4YTAMBZGI2S643DF5QTMYRWGUYDQYZNGI2TGZJNGQZDGYRNME4DAMJNMY3WIODCGIYGGNJWMIYC6TSCGJEESNCEKREESWCTGY2DGVSPIJMUONRUKRKUMWSTI5BTKRCCJVHFCVZSGRBE6TKOLBLTETBTJFGU2WCXJMZVETSPKZNFGNRUKRDE6RRSK5FTIM2VJ5GVQVZULJGFQL2HIJJEITK2IJJUOTKZIREU4WSYJVNFCVCFJ5BFQRZUGRDUGWSUIRDUEUKXINNEYQ2NIUZVISKNKJNEONBUKRCVSVCCJBBFCV2DJ5CEEL3TOVYHA33SOQWWIYLUMFRWC3LQFVRW63JNNBRS2ZLOFV2XGLLSMVYXKZLTORZS23TFO4======/ME3DSOJWG43TGYZUMY2DMYTEMVSDINBRG4ZTGOLBME4DCNDFMRSDCYLEGVQTOM3C/sl-datacamp-com-t-100925-sc-a6b6508c-253e-423b-a801-f7d8b20c56b0-nb2hi4dthi) 
 
 ## Slack
 Technical help can be requested via the following [Data and Analysis slack channels](https://asdslack.slack.com/): 
