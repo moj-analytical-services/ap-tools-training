@@ -24,10 +24,10 @@ The Analytical Platform is a data analysis environment, enabling the use of mode
 
 To learn more about the Analytical Platform and to get up and running, go to the [Analytical Platform](#AP) chapter. More extensive information is provided by the [Analytical Platform user guidance](https://user-guidance.services.alpha.mojanalytics.xyz/#content).
 
-## R mentoring
-It is recommended that all who are new to R or Data and Analysis request an R mentor. The purpose of the scheme is to provide a better on-the-job R learning experience and raise awareness of the preferred Data and Analysis ways of working that will for instance enable people to get up to speed more quickly with others’ code. The scheme is also open to non-coders who need to use the Analytical Platform to advise them through the learning process, and for those commencing a more complex project involving the use of R. 
+## Coding Mentoring Scheme
+If you are new to coding (in any language or in a new coding language), or if you are new to Data and Analysis and your role involves coding, then it is recommended that you request a coding mentor. The purpose of the scheme is to provide a better on-the-job coding learning experience and raise awareness of the preferred D&A ways of working that will for instance enable people to get up to speed more quickly with others’ code. The scheme is also open to non-coders who need to use the Analytical Platform to advise them through the learning process, and for those needing help with developing the reproducibility of a coding product and/or pipeline or commencing a more complex coding project. 
 
-To request an R mentor please complete [this mentee form](https://forms.office.com/Pages/ResponsePage.aspx?id=KEeHxuZx_kGp4S6MNndq2PdkMZw8L-FEkMSL2t4Oet1UQVlWMUwzOVZRNUVKSTVZU0pPTUY0MDlZTSQlQCN0PWcu). If you could become an R mentor (we have a shortage of mentors) please complete [this mentor form](https://forms.office.com/Pages/ResponsePage.aspx?id=KEeHxuZx_kGp4S6MNndq2PdkMZw8L-FEkMSL2t4Oet1UNUw1N1M0NVNQSTNOVkdHOUtMQ1lMT0lHTSQlQCN0PWcu). For more information please contact Jose Vieira.
+To request a coding mentor please complete [this mentee form](https://forms.office.com/Pages/ResponsePage.aspx?id=KEeHxuZx_kGp4S6MNndq2PdkMZw8L-FEkMSL2t4Oet1UNzBTUDdYSFVYUUJHOE5WM1FCSjRFSzhWTiQlQCN0PWcu). If you would like to become a coding mentor please complete [this mentor form](https://forms.office.com/Pages/ResponsePage.aspx?id=KEeHxuZx_kGp4S6MNndq2PdkMZw8L-FEkMSL2t4Oet1UOTI5V1oyTVJTSDM4Q1BEWFFYOTVVMDBUSCQlQCN0PWcu). For more information please contact Jose Vieira.
 
 ## R/SQL/Git/Python Training Groups
 
