@@ -29,9 +29,9 @@ If you are new to coding (in any language or in a new coding language), or if yo
 
 To request a coding mentor please complete [this mentee form](https://forms.office.com/Pages/ResponsePage.aspx?id=KEeHxuZx_kGp4S6MNndq2PdkMZw8L-FEkMSL2t4Oet1UNzBTUDdYSFVYUUJHOE5WM1FCSjRFSzhWTiQlQCN0PWcu). If you would like to become a coding mentor please complete [this mentor form](https://forms.office.com/Pages/ResponsePage.aspx?id=KEeHxuZx_kGp4S6MNndq2PdkMZw8L-FEkMSL2t4Oet1UOTI5V1oyTVJTSDM4Q1BEWFFYOTVVMDBUSCQlQCN0PWcu). For more information please contact Jose Vieira.
 
-## R/SQL/Git/Python Training Groups
+## Coding Training Groups
 
-Those working in Data and Analysis are recommended to take the internal training courses as they are run using the MoJ Analytical Platform. The main introductory R, SQL and Git/GitHub sessions are usually run live in February/March, June/July and October/November each year while you can also work through R, SQL, Git/GitHub and Python sessions yourself using the training material and/or recordings. To learn more about the sessions currently available and how to access the material and recordings, go to the [R/SQL/Git/Python Training Groups](#ITG) chapter.
+Those working in Data and Analysis are recommended to take the internal training courses in R, SQL, Python and Git/GitHub as they are run using the MoJ Analytical Platform. The main introductory R, SQL and Git/GitHub sessions are usually run live in February/March, June/July and October/November each year while you can also work through R, SQL, Git/GitHub and Python sessions yourself using the training material and/or recordings. To learn more about the sessions currently available and how to access the material and recordings, go to the [Coding Training Groups](#CTG) chapter.
 
 ## Coffee and Coding
 The internal training (see above) is complemented by Coffee and Coding presentations. These presentations usually take the form of a demonstration of a tool or technique and/or a show and tell of work done within the department using particular coding methods. For more information go to the [Coffee and Coding](#CC) chapter.

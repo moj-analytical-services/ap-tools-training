@@ -1,4 +1,4 @@
-# R/SQL/Git/Python Training Groups {#ITG}
+# Coding Training Groups {#CTG}
 
 Those working in Data and Analysis are recommended to take the internal training courses as they are run using the MoJ Analytical Platform and focus on topics of relevance to MoJ analysts. The main introductory R, SQL and Git/GitHub sessions are usually run live in February/March, June/July and October/November each year while you can also work through R, SQL, Git/GitHub and Python sessions yourself using the training material and/or recordings. There is also Python training you can work through yourself.  
 

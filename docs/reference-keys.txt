@@ -2,7 +2,7 @@ summary
 analytical-it-tools-strategy
 analytical-platform
 coding-mentoring-scheme
-rsqlgitpython-training-groups
+coding-training-groups
 coffee-and-coding
 bite-sized-sessions
 analytical-function-training
@@ -14,7 +14,7 @@ introduction
 summary-of-key-terms
 getting-set-up
 managing-data
-ITG
+CTG
 r-training
 gitgithub-training
 sql-training
