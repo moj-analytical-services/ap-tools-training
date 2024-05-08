@@ -37,7 +37,7 @@ Those working in Data and Analysis are recommended to take the internal training
 The internal training (see above) is complemented by Coffee and Coding presentations. These presentations usually take the form of a demonstration of a tool or technique and/or a show and tell of work done within the department using particular coding methods. For more information go to the [Coffee and Coding](#CC) chapter.
 
 ## Bite-sized sessions
-There are also short sessions (generally talks of up to 15mins followed by Q/A) on a variety of topics including specialist as well as softer skills. Recent topics have included: 
+The Data and Analysis bite-sized sessions are short sessions (generally talks of up to 15mins followed by Q/A) on a variety of topics including specialist as well as softer skills. Recent topics have included: 
 
 * New statistical methods guidance for MoJ analysts
 * How to use the Evidence Library to support your work
