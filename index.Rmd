@@ -65,6 +65,9 @@ DataCamp licenses are beneficial to cover gaps in current training provision tha
 * DataCamp courses currently in development are shown by [this Trello board](https://trello.com/b/BLplifUB/datacamp-course-roadmap)
 * Reach out to the DataCamp support team for any technical requests [via this internet link](https://sl.datacamp.com/t/100925/sc/640e4c47-4cac-46c1-90ed-0da22c35e9f6/NB2HI4DTHIXS643MFZSGC5DBMNQW24BOMNXW2L3UF4YTAMBZGI2S643DF5QTMYRWGUYDQYZNGI2TGZJNGQZDGYRNME4DAMJNMY3WIODCGIYGGNJWMIYC6TSCGJEESNCEKREESWCTGY2DGVSPIJMUONRUKRKUMWSTI5BTKRCCJVHFCVZSGRBE6TKOLBLTETBTJFGU2WCXJMZVETSPKZNFGNRUKRDE6RRSK5FTIM2VJ5GVQVZULJGFQL2HIJJEITK2IJJUOTKZIREU4WSYJVNFCVCFJ5BFQRZUGRDUGWSUIRDUEUKXINNEYQ2NIUZVISKNKJNEONBUKRCVSVCCJBBFCV2DJ5CEEL3TOVYHA33SOQWWIYLUMFRWC3LQFVRW63JNNBRS2ZLOFV2XGLLSMVYXKZLTORZS23TFO4======/ME3DSOJWG43TGYZUMY2DMYTEMVSDINBRG4ZTGOLBME4DCNDFMRSDCYLEGVQTOM3C/sl-datacamp-com-t-100925-sc-a6b6508c-253e-423b-a801-f7d8b20c56b0-nb2hi4dthi) 
 
+## Microsoft Learn
+[Microsoft Learn](https://learn.microsoft.com/en-us/) provides free training including in Power BI and the Power Apps that you can work through yourself. 
+
 ## Slack
 Technical help can be requested via the following [Data and Analysis slack channels](https://asdslack.slack.com/): 
 
