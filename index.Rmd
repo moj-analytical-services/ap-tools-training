@@ -22,19 +22,19 @@ The [MoJ Analytical IT Tools Strategy](https://moj-analytical-services.github.io
 ## Analytical Platform
 The Analytical Platform is a data analysis environment, enabling the use of modern open source tools such as R and Python, and holding key datasets for MoJ analysts. 
 
-To learn more about the Analytical Platform and to get up and running, go to the [Analytical Platform](#AP) chapter. More extensive information is provided by the [Analytical Platform user guidance](https://user-guidance.services.alpha.mojanalytics.xyz/#content).
+To learn more about the Analytical Platform and to get up and running, go to the [Analytical Platform chapter](#AP). More extensive information is provided by the [Analytical Platform user guidance](https://user-guidance.services.alpha.mojanalytics.xyz/#content).
 
 ## Coding Mentoring Scheme
 If you are new to coding (in any language or in a new coding language), or if you are new to Data and Analysis and your role involves coding, then it is recommended that you request a coding mentor. The purpose of the scheme is to provide a better on-the-job coding learning experience and raise awareness of the preferred D&A ways of working that will for instance enable people to get up to speed more quickly with others’ code. The scheme is also open to non-coders who need to use the Analytical Platform to advise them through the learning process, and for those needing help with developing the reproducibility of a coding product and/or pipeline or commencing a more complex coding project. 
 
-To request a coding mentor please complete [this mentee form](https://forms.office.com/Pages/ResponsePage.aspx?id=KEeHxuZx_kGp4S6MNndq2PdkMZw8L-FEkMSL2t4Oet1UNzBTUDdYSFVYUUJHOE5WM1FCSjRFSzhWTiQlQCN0PWcu). If you would like to become a coding mentor please complete [this mentor form](https://forms.office.com/Pages/ResponsePage.aspx?id=KEeHxuZx_kGp4S6MNndq2PdkMZw8L-FEkMSL2t4Oet1UOTI5V1oyTVJTSDM4Q1BEWFFYOTVVMDBUSCQlQCN0PWcu). For more information please contact Jose Vieira.
+To request a coding mentor please complete the [Coding Mentoring Scheme mentee form](https://forms.office.com/Pages/ResponsePage.aspx?id=KEeHxuZx_kGp4S6MNndq2PdkMZw8L-FEkMSL2t4Oet1UNzBTUDdYSFVYUUJHOE5WM1FCSjRFSzhWTiQlQCN0PWcu). If you would like to become a coding mentor please complete the [Coding Mentoring Scheme mentor form](https://forms.office.com/Pages/ResponsePage.aspx?id=KEeHxuZx_kGp4S6MNndq2PdkMZw8L-FEkMSL2t4Oet1UOTI5V1oyTVJTSDM4Q1BEWFFYOTVVMDBUSCQlQCN0PWcu). For more information please contact Jose Vieira.
 
 ## Coding Training Groups
 
-Those working in Data and Analysis are recommended to take the internal training courses in R, SQL, Python and Git/GitHub as they are run using the MoJ Analytical Platform. The main introductory R, SQL and Git/GitHub sessions are usually run live in February/March, June/July and October/November each year while you can also work through R, SQL, Git/GitHub and Python sessions yourself using the training material and/or recordings. To learn more about the sessions currently available and how to access the material and recordings, go to the [Coding Training Groups](#CTG) chapter.
+Those working in Data and Analysis are recommended to take the internal training courses in R, SQL, Python and Git/GitHub as they are run using the MoJ Analytical Platform. The main introductory R, SQL and Git/GitHub sessions are usually run live in February/March, June/July and October/November each year while you can also work through R, SQL, Git/GitHub and Python sessions yourself using the training material and/or recordings. To learn more about the sessions currently available and how to access the material and recordings, go to the [Coding Training Groups chapter](#CTG).
 
 ## Coffee and Coding
-The internal training (see above) is complemented by Coffee and Coding presentations. These presentations usually take the form of a demonstration of a tool or technique and/or a show and tell of work done within the department using particular coding methods. For more information go to the [Coffee and Coding](#CC) chapter.
+The internal training (see above) is complemented by Coffee and Coding presentations. These presentations usually take the form of a demonstration of a tool or technique and/or a show and tell of work done within the department using particular coding methods. For more information go to the [Coffee and Coding chapter](#CC).
 
 ## Bite-sized sessions
 The Data and Analysis bite-sized sessions are short sessions (generally talks of up to 15mins followed by Q/A) on a variety of topics including specialist as well as softer skills. Recent topics have included: 
@@ -59,11 +59,11 @@ There are many Analytical Function training opportunities for analysts including
 ## DataCamp
 DataCamp licenses are beneficial to cover gaps in current training provision that are not currently picked up by either internal or Analytical Function training e.g. training in Power BI and more advanced or niche R, SQL, and Python skills.
 
-* Read more about DataCamp and signup for a license (paid for by MoJ) [via this landing page](https://www.datacamp.com/business/partners/MoJ-and-datacamp-partnership)
-* View this [March 2024 DataCamp Licence: Onboarding and Q&A Session](https://justiceuk.sharepoint.com/:v:/s/RTrainingGroup/EZVuye17Ln9On6IpVy0L6NYB1X0L_g4wCu1MRTlCjGUZIA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Kik2lD) and associated [onboarding slides](https://justiceuk.sharepoint.com/:b:/s/RTrainingGroup/ER1IVbnaCA9CocRvgAIh2uUBQVNfGruTOIuRJPfH7lEmxw?e=BBWtAU)
-* To access DataCamp on your mobile see [this internet link](https://www.datacamp.com/mobile)
-* DataCamp courses currently in development are shown by [this Trello board](https://trello.com/b/BLplifUB/datacamp-course-roadmap)
-* Reach out to the DataCamp support team for any technical requests [via this internet link](https://sl.datacamp.com/t/100925/sc/640e4c47-4cac-46c1-90ed-0da22c35e9f6/NB2HI4DTHIXS643MFZSGC5DBMNQW24BOMNXW2L3UF4YTAMBZGI2S643DF5QTMYRWGUYDQYZNGI2TGZJNGQZDGYRNME4DAMJNMY3WIODCGIYGGNJWMIYC6TSCGJEESNCEKREESWCTGY2DGVSPIJMUONRUKRKUMWSTI5BTKRCCJVHFCVZSGRBE6TKOLBLTETBTJFGU2WCXJMZVETSPKZNFGNRUKRDE6RRSK5FTIM2VJ5GVQVZULJGFQL2HIJJEITK2IJJUOTKZIREU4WSYJVNFCVCFJ5BFQRZUGRDUGWSUIRDUEUKXINNEYQ2NIUZVISKNKJNEONBUKRCVSVCCJBBFCV2DJ5CEEL3TOVYHA33SOQWWIYLUMFRWC3LQFVRW63JNNBRS2ZLOFV2XGLLSMVYXKZLTORZS23TFO4======/ME3DSOJWG43TGYZUMY2DMYTEMVSDINBRG4ZTGOLBME4DCNDFMRSDCYLEGVQTOM3C/sl-datacamp-com-t-100925-sc-a6b6508c-253e-423b-a801-f7d8b20c56b0-nb2hi4dthi) 
+* [Read more about DataCamp and signup for a license](https://www.datacamp.com/business/partners/MoJ-and-datacamp-partnership) paid for by MoJ
+* View this [March 2024 DataCamp Licence: Onboarding and Q&A session recording](https://justiceuk.sharepoint.com/:v:/s/RTrainingGroup/EZVuye17Ln9On6IpVy0L6NYB1X0L_g4wCu1MRTlCjGUZIA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Kik2lD) and associated [onboarding slides](https://justiceuk.sharepoint.com/:b:/s/RTrainingGroup/ER1IVbnaCA9CocRvgAIh2uUBQVNfGruTOIuRJPfH7lEmxw?e=BBWtAU)
+* Access [DataCamp on your mobile](https://www.datacamp.com/mobile)
+* View the [DataCamp courses currently in development - Trello board](https://trello.com/b/BLplifUB/datacamp-course-roadmap)
+* Reach out to the [DataCamp support team](https://sl.datacamp.com/t/100925/sc/640e4c47-4cac-46c1-90ed-0da22c35e9f6/NB2HI4DTHIXS643MFZSGC5DBMNQW24BOMNXW2L3UF4YTAMBZGI2S643DF5QTMYRWGUYDQYZNGI2TGZJNGQZDGYRNME4DAMJNMY3WIODCGIYGGNJWMIYC6TSCGJEESNCEKREESWCTGY2DGVSPIJMUONRUKRKUMWSTI5BTKRCCJVHFCVZSGRBE6TKOLBLTETBTJFGU2WCXJMZVETSPKZNFGNRUKRDE6RRSK5FTIM2VJ5GVQVZULJGFQL2HIJJEITK2IJJUOTKZIREU4WSYJVNFCVCFJ5BFQRZUGRDUGWSUIRDUEUKXINNEYQ2NIUZVISKNKJNEONBUKRCVSVCCJBBFCV2DJ5CEEL3TOVYHA33SOQWWIYLUMFRWC3LQFVRW63JNNBRS2ZLOFV2XGLLSMVYXKZLTORZS23TFO4======/ME3DSOJWG43TGYZUMY2DMYTEMVSDINBRG4ZTGOLBME4DCNDFMRSDCYLEGVQTOM3C/sl-datacamp-com-t-100925-sc-a6b6508c-253e-423b-a801-f7d8b20c56b0-nb2hi4dthi) for any technical requests
 
 ## Microsoft Learn
 [Microsoft Learn](https://learn.microsoft.com/en-us/) provides free training including in Power BI and the Power Apps that you can work through yourself. 
@@ -85,7 +85,7 @@ More information about Slack including how to get set up is available via the [A
 You may also find useful:
 
 * [Statistical Methods Guidance](https://moj-analytical-services.github.io/moj-statistical-methods-guidance/) on key topics for MoJ analysts with many of the signposted sources including R or Python code.
-* a trello board providing [links to further free online analytical training including in R or Python](https://trello.com/b/D5pSkqnT/online-analytical-training) and [R cheatsheets](https://rstudio.com/resources/cheatsheets/). 
+* links to further analytical training including in R or Python via the [Free online analytical training Trello Board](https://trello.com/b/D5pSkqnT/online-analytical-training) and [R cheatsheets](https://rstudio.com/resources/cheatsheets/). 
 
 There are also many useful free R and Python books on the web, for instance for Python:
 
