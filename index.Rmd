@@ -39,6 +39,9 @@ The internal training (see above) is complemented by Coffee and Coding presentat
 ## Bite-sized sessions
 The Data and Analysis bite-sized sessions are short sessions (generally talks of up to 15mins followed by Q/A) on a variety of topics including specialist as well as softer skills. Recent topics have included: 
 
+* Using MS Power Automate to reduce office tasks
+* An introduction to the D&A Coding Mentoring Scheme
+* Introduction to nDelius derived tables
 * New statistical methods guidance for MoJ analysts
 * How to use the Evidence Library to support your work
 * Prototyping - why, how and when?
