@@ -4,7 +4,7 @@
 To gain an overview of the Analytical Platform (AP) watch this 2-3 min [introductory video](https://www.youtube.com/watch?v=5467Hl3X9EI&t=95s), although please be aware that given it's a few years old some things have changed. In addition to the information in this chapter, you can:
 
 * Attend or work through yourself the Introduction: Using R on the Analytical Platform - see [the internal R training section](https://moj-analytical-services.github.io/ap-tools-training/CTG.html#r-training).
-* Read [the Analytical Platform User Guidance](https://user-guidance.analytical-platform.service.justice.gov.uk/) which provides more technical details, possibly starting with the section [About the Analytical Platform](https://user-guidance.analytical-platform.service.justice.gov.uk/index.html).
+* Read [the Analytical Platform User Guidance](https://user-guidance.analytical-platform.service.justice.gov.uk/) which provides more technical details.
 
 ## Summary of key terms
 It will help you to be familiar with the following key terms:
