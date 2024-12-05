@@ -15,15 +15,15 @@ The following sessions are available; click on the links to view the material in
 *	[Writing Functions in R](https://github.com/moj-analytical-services/writing_functions_in_r)
 *	[Developing R packages](https://github.com/moj-analytical-services/rpackage_training)
 
-The recordings of these R training sessions are available in [the R/SQL/Git Training Video Playlist](https://justiceuk.sharepoint.com/:l:/s/RTrainingGroup/FHj_mP5zSBtDkdrR7YL88wUB0tRT5Jt1qz09LMu4pmlU8A?e=Cdb21d).
+The most recent recording of each of these R training sessions is available in [the R/SQL/Git Training Video Playlist](https://justiceuk.sharepoint.com/:l:/s/RTrainingGroup/FHj_mP5zSBtDkdrR7YL88wUB0tRT5Jt1qz09LMu4pmlU8A?e=Cdb21d). You can view these and other less recent recordings in [the R/SQL/Git Training Video Library](https://justiceuk.sharepoint.com/:u:/s/RTrainingGroup/EQmizR4ln25Hotr46oEK5_EBEzsyuy5PjQ7x0KEM_my-Qg?e=LUl8bw).
 
 ## Git/GitHub Training
 
-Whether seeking to use R, SQL or Python, it is recommended that all newcomers attend or work through themselves this [Introduction to Git/GitHub](https://github.com/moj-analytical-services/intro_to_github_training) (click on link to view material in GitHub repository) session. A recording can be viewed in [the R/SQL/Git Training Video Playlist](https://justiceuk.sharepoint.com/:l:/s/RTrainingGroup/FHj_mP5zSBtDkdrR7YL88wUB0tRT5Jt1qz09LMu4pmlU8A?e=Cdb21d).	
+Whether seeking to use R, SQL or Python, it is recommended that all newcomers attend or work through themselves this [Introduction to Git/GitHub](https://github.com/moj-analytical-services/intro_to_github_training) (click on link to view material in GitHub repository) session. The most recent recording of this session is available in [the R/SQL/Git Training Video Playlist](https://justiceuk.sharepoint.com/:l:/s/RTrainingGroup/FHj_mP5zSBtDkdrR7YL88wUB0tRT5Jt1qz09LMu4pmlU8A?e=Cdb21d). You can view this and other less recent recordings in [the R/SQL/Git Training Video Library](https://justiceuk.sharepoint.com/:u:/s/RTrainingGroup/EQmizR4ln25Hotr46oEK5_EBEzsyuy5PjQ7x0KEM_my-Qg?e=LUl8bw).
 
 ## SQL Training
 
-All newcomers who are to use SQL should attend or work through themselves the [Introduction to SQL](https://github.com/moj-analytical-services/sql_training) (click on link to view material in GitHub repository) session. A recording of this session is available in [the R/SQL/Git Training Video Playlist](https://justiceuk.sharepoint.com/:l:/s/RTrainingGroup/FHj_mP5zSBtDkdrR7YL88wUB0tRT5Jt1qz09LMu4pmlU8A?e=Cdb21d).
+All newcomers who are to use SQL should attend or work through themselves the [Introduction to SQL](https://github.com/moj-analytical-services/sql_training) (click on link to view material in GitHub repository) session. The most recent recording of this session is available in [the R/SQL/Git Training Video Playlist](https://justiceuk.sharepoint.com/:l:/s/RTrainingGroup/FHj_mP5zSBtDkdrR7YL88wUB0tRT5Jt1qz09LMu4pmlU8A?e=Cdb21d). You can view this and other less recent recordings in [the R/SQL/Git Training Video Library](https://justiceuk.sharepoint.com/:u:/s/RTrainingGroup/EQmizR4ln25Hotr46oEK5_EBEzsyuy5PjQ7x0KEM_my-Qg?e=LUl8bw).
 
 ## Python Training
 
