@@ -20,9 +20,11 @@ biblio-style: apalike
 The [MoJ Analytical IT Tools Strategy](https://moj-analytical-services.github.io/moj-analytical-it-tools-strategy/) describes the analytical IT tools analysts are recommended to use along with the ways of working to be followed.
 
 ## Analytical Platform
-The Analytical Platform is a data analysis environment, enabling the use of modern open source tools such as R and Python, and holding key datasets for MoJ analysts. 
+The Analytical Platform is a data analysis environment, enabling the use of modern open source tools such as R and Python, and holding key datasets for MoJ analysts.
 
-To learn more about the Analytical Platform and to get up and running, go to the [Analytical Platform chapter](#AP). More extensive information is provided by the [Analytical Platform user guidance](https://user-guidance.services.alpha.mojanalytics.xyz/#content).
+You can view a recent recording of the [Introduction to the Analytical Platform](https://justiceuk.sharepoint.com/:v:/s/InductionAcademy/EedsWmM09yRDvYWL1jVvgM8BhXw_77geVM3fx4KwNd70LQ?e=T4pPya), which was given as part of the Analysis Directorate Induction Academy. 
+
+Otherwise, to learn more about the Analytical Platform and to get up and running, go to the [Analytical Platform chapter](#AP). More extensive information is provided by the [Analytical Platform user guidance](https://user-guidance.services.alpha.mojanalytics.xyz/#content).
 
 ## Coding Mentoring Scheme
 If you are new to coding (in any language or in a new coding language), or if you are new to Data and Analysis and your role involves coding, then it is recommended that you request a coding mentor. The purpose of the scheme is to provide a better on-the-job coding learning experience and raise awareness of the preferred D&A ways of working that will for instance enable people to get up to speed more quickly with others’ code. The scheme is also open to non-coders who need to use the Analytical Platform to advise them through the learning process, and for those needing help with developing the reproducibility of a coding product and/or pipeline or commencing a more complex coding project. 
