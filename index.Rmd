@@ -22,9 +22,7 @@ The [MoJ Analytical IT Tools Strategy](https://moj-analytical-services.github.io
 ## Analytical Platform
 The Analytical Platform is a data analysis environment, enabling the use of modern open source tools such as R and Python, and holding key datasets for MoJ analysts.
 
-You can view a recent recording of the [Introduction to the Analytical Platform](https://justiceuk.sharepoint.com/:v:/s/InductionAcademy/EedsWmM09yRDvYWL1jVvgM8BhXw_77geVM3fx4KwNd70LQ?e=T4pPya), which was given as part of the Analysis Directorate Induction Academy. 
-
-Otherwise, to learn more about the Analytical Platform and to get up and running, go to the [Analytical Platform chapter](#AP). More extensive information is provided by the [Analytical Platform user guidance](https://user-guidance.services.alpha.mojanalytics.xyz/#content).
+To learn more about the Analytical Platform and to get up and running, go to the [Analytical Platform chapter](#AP).
 
 ## Coding Mentoring Scheme
 If you are new to coding (in any language or in a new coding language), or if you are new to Data and Analysis and your role involves coding, then it is recommended that you request a coding mentor. The purpose of the scheme is to provide a better on-the-job coding learning experience and raise awareness of the preferred D&A ways of working that will for instance enable people to get up to speed more quickly with others’ code. The scheme is also open to non-coders who need to use the Analytical Platform to advise them through the learning process, and for those needing help with developing the reproducibility of a coding product and/or pipeline or commencing a more complex coding project. 
@@ -56,7 +54,7 @@ You can find recordings of bite-sized sessions in the [bite-sized session video 
 For more information including if you are interested in presenting a session or joining the bite-sized session facilitation team please contact Aidan Mews or Edward Adams.
 
 ## Analytical Function training
-There are many Analytical Function training opportunities for analysts including about specialist topics not presently covered internally. Examples useful for RAP practitioners include [Best practice in programming – clean code](https://analysisfunction.civilservice.gov.uk/training/best-practice-in-programming-clean-code/) and a more lengthy [Introduction to unit testing](https://analysisfunction.civilservice.gov.uk/training/introduction-to-unit-testing/) than currently available internally. You can learn more about such opportunities via:
+There are many Analytical Function training opportunities for analysts including about specialist topics not presently covered internally. Examples useful for Reproducible Analytical Pipeline practitioners include [Best practice in programming – clean code](https://analysisfunction.civilservice.gov.uk/training/best-practice-in-programming-clean-code/) and a more lengthy [Introduction to unit testing](https://analysisfunction.civilservice.gov.uk/training/introduction-to-unit-testing/) than currently available internally. You can learn more about such opportunities via:
 
 *	[The Analytical Function Learning Curriculam](https://analysisfunction.civilservice.gov.uk/learning-development/learning-curriculum/)
 *	[The Analytical Function Training Courses](https://analysisfunction.civilservice.gov.uk/training-courses/)

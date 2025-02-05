@@ -1,10 +1,11 @@
 # Analytical Platform {#AP}
 
 ## Introduction
-To gain an overview of the Analytical Platform (AP) watch this 2-3 min [introductory video](https://www.youtube.com/watch?v=5467Hl3X9EI&t=95s), although please be aware that given it's a few years old some things have changed. In addition to the information in this chapter, you can:
+To gain an overview of the Analytical Platform (AP) watch this 2-3 min [introductory video](https://www.youtube.com/watch?v=5467Hl3X9EI&t=95s), although please be aware that it's a few years old and much has changed since then. For more depth please see:
 
-* Attend or work through yourself the Introduction: Using R on the Analytical Platform - see [the internal R training section](https://moj-analytical-services.github.io/ap-tools-training/CTG.html#r-training).
-* Read [the Analytical Platform User Guidance](https://user-guidance.analytical-platform.service.justice.gov.uk/) which provides more technical details.
+* The [Introduction to the Analytical Platform (link to recent recording)](https://justiceuk.sharepoint.com/:v:/s/InductionAcademy/EedsWmM09yRDvYWL1jVvgM8BhXw_77geVM3fx4KwNd70LQ?e=T4pPya), given as part of the Analysis Directorate Induction Academy. 
+* The Introduction to using R on the Analytical Platform - see [the internal R training section](https://moj-analytical-services.github.io/ap-tools-training/CTG.html#r-training) for more details.
+* [The Analytical Platform User Guidance](https://user-guidance.analytical-platform.service.justice.gov.uk/).
 
 ## Summary of key terms
 It will help you to be familiar with the following key terms:
@@ -20,19 +21,10 @@ It will help you to be familiar with the following key terms:
 - **Slack**: Collaboration tool where you can get technical support for Analytical Platform tools such as R, Python, Git. You can share knowledge, submit admin requests and communicate quickly with other AP users.
 
 ## Getting set up
-Follow the steps in the [Getting Started section of the Analytical Platform User Guide](https://user-guidance.services.alpha.mojanalytics.xyz/get-started.html#get-started). You need to:
-
-- Set up a [Slack account](https://user-guidance.analytical-platform.service.justice.gov.uk/get-started.html#2-create-slack-account).  
-- Set up a [GitHub account with two-factor authentication](https://user-guidance.analytical-platform.service.justice.gov.uk/get-started.html#3-create-github-account).   
-- Set up a [Analytical Platform account](https://user-guidance.analytical-platform.service.justice.gov.uk/get-started.html#4-access-the-analytical-platform).
-- Set up [RStudio](https://user-guidance.analytical-platform.service.justice.gov.uk/get-started.html#6-set-up-rstudio) to use R and/or [JupyterLab](https://user-guidance.analytical-platform.service.justice.gov.uk/get-started.html#5-set-up-jupyterlab) to use Python.
-
-You can learn more about GitHub by attending or working through yourself the Introduction to Git/GitHub - see [the internal Git/GitHub training section](https://moj-analytical-services.github.io/ap-tools-training/CTG.html#gitgithub-training).
-
-For those that need to get set up to use Athena databases for SQL (in R or Athena) on the Analytical Platform, please follow the additional instructions in the “Training Requirements” section of the [Introduction to SQL training repository](https://github.com/moj-analytical-services/sql_training). 
+Follow the steps in the [Analytical Platform User Guidance Quickstart Guide](https://user-guidance.services.alpha.mojanalytics.xyz/get-started.html#get-started). 
 
 ## Managing data
-Once you have got set up on the Analytical Platform, do read about the following data management/handling topics:
+Once you have got set up on the Analytical Platform, do read about the following data management/handling topics in the [Analytical Platform User Guidance](https://user-guidance.analytical-platform.service.justice.gov.uk/):
 
 - [How data are held on the Analytical Platform and finding the data you need](https://user-guidance.services.alpha.mojanalytics.xyz/data/#dropShadow). You can read about the three different data storage options (Amazon S3, Curated databases and home directories). 
 - Working with [Amazon S3](https://user-guidance.services.alpha.mojanalytics.xyz/data/amazon-s3/#amazon-s3), [data FAQ](https://user-guidance.analytical-platform.service.justice.gov.uk/data/data-faqs/index.html), the [Data Uploader tool](https://user-guidance.analytical-platform.service.justice.gov.uk/tools/data-uploader/index.html#data-uploader) and [interacting with Amazon S3 via the Analytical Platform](https://user-guidance.analytical-platform.service.justice.gov.uk/data/amazon-s3/index.html#interacting-with-amazon-s3-via-the-analytical-platform).
