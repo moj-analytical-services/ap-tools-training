@@ -5,6 +5,7 @@ coding-mentoring-scheme
 coding-training-groups
 coffee-and-coding
 bite-sized-sessions
+learning-pathways
 analytical-function-training
 datacamp
 microsoft-learn
