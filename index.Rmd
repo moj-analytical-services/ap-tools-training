@@ -58,16 +58,14 @@ For more information including if you are interested in presenting a session or 
 
 ## Learning Pathways
 
-Learning Pathways are a structured series of learning activities and resources designed to help individuals acquire specific skills and knowledge.
+Learning Pathways are a structured series of learning activities and resources designed to help individuals acquire specific skills and knowledge. You can access the [MoJ learning pathways](https://app.datacamp.com/groups/justice/custom-tracks) via the DataCamp website (see the [DataCamp section](#datacamp) for more information about DataCamp).
 
-The [Introduction to Data Science Learning Pathway](https://app.datacamp.com/learn/custom-tracks/custom-introduction-to-data-science-in-dedsai-python) has been developed to equip staff with the foundational knowledge and skills they need to make a successful start as a Data Scientist. (More pathways are under development.)
+The [Introduction to Data Science Learning Pathway](https://app.datacamp.com/learn/custom-tracks/custom-introduction-to-data-science-in-dedsai-python) has been developed to equip staff with the foundational knowledge and skills they need to make a successful start as a Data Scientist. 
 
 Who is it for?
 
 * Everyone with an interest in upskilling in Data Science! The Pathway was developed with new HEOs in mind but would also suit other grades seeking a refresher or those transitioning from another profession.
 * Python users. (A version for R users is under development.)
-
-The Pathway can be accessed through DataCamp (see the [DataCamp section](#DataCamp) for more information).
 
 ## Analytical Function training
 There are many Analytical Function training opportunities for analysts including about specialist topics not presently covered internally. Examples useful for Reproducible Analytical Pipeline practitioners include [Best practice in programming – clean code](https://analysisfunction.civilservice.gov.uk/training/best-practice-in-programming-clean-code/) and a more lengthy [Introduction to unit testing](https://analysisfunction.civilservice.gov.uk/training/introduction-to-unit-testing/) than currently available internally. You can learn more about such opportunities via:
