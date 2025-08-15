@@ -98,6 +98,9 @@ Technical help can be requested via the following [Data and Analysis Directorate
 
 More information about Slack including how to get set up is available via the [Analytical Platform User Guidance](https://user-guidance.analytical-platform.service.justice.gov.uk/get-started.html#2-create-slack-account) and the [Hive (for Data and Analysis Directorates (and other MoJ analysts))](https://justiceuk.sharepoint.com/sites/MoJDataAnalyticalCommunity/learningoffer/SitePages/What-is-Slack-and-how-to-use-it-.aspx).
 
+## Use of AI
+You may find use of Copilot or ChatGPT (see the [Approved AI tools MoJ Intranet article]( https://intranet.justice.gov.uk/guidance/it-services/ai-in-moj/approved-ai-tools/)) to be very helpful in writing, editing and making your coding more reproducible. Datacamp courses (see the [DataCamp section](#datacamp) above) are available to enable you to make the most of these AI tools.
+
 ## Other assistance
 You may also find useful:
 
