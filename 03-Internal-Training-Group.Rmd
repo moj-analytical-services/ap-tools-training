@@ -8,7 +8,7 @@ There's also an Introduction to the Analytical Platform - see the [Analytical Pl
 
 ## R Training
 
-The following sessions are available; click on the links to view the latest recordings and GitHub repositories respectively. The first three are particularly recommended for new starters.   
+The following sessions are available; click on the links to view the latest recordings and GitHub repositories (which to view you'll need to have a GitHub account - see the [Analytical Platform User Guidance section on creating a GitHub account](https://user-guidance.analytical-platform.service.justice.gov.uk/get-started.html#3-create-github-account) to set one up) respectively. The first three are particularly recommended for new starters.
 
 * Introduction to using R on the Analytical Platform: [Link to recording](https://justiceuk.sharepoint.com/:v:/s/RTrainingGroup/EeGNNNcZsSJEnXR3U-hm_sgBOYSV0fbqCZzqWu07EmLGrg) and [Link to GitHub repository](https://github.com/moj-analytical-services/intro_using_r_on_ap)
 * Introduction to R: [Link to recording of part 1](https://justiceuk.sharepoint.com/:v:/s/RTrainingGroup/EerNKY0RxDpGkBdghhozh5YBwmu8GX6uEVj_BpG9SUH55A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=znse2y), [Link to recording of part 2](https://justiceuk.sharepoint.com/:v:/s/RTrainingGroup/EWJ8XFWSzCZCluBLHf6GYmwBHT3zfu-L7qBgbh6WVkG9vA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=um2wGT) and [Link to GitHub repository](https://github.com/moj-analytical-services/IntroRTraining)
