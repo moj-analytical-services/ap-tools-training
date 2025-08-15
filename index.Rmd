@@ -39,6 +39,8 @@ The internal training (see above) is complemented by Coffee and Coding presentat
 ## Bite-sized sessions
 The bite-sized sessions are short sessions (generally talks of up to 15mins followed by Q/A) on a variety of topics including specialist as well as softer skills. Past topics have included: 
 
+* Introduction to Explainable Boosting Machines
+* Introduction to Analytical Platform and related tools training
 * What is and isn't meant by AI?
 * Using MS Power Automate to reduce office tasks
 * An introduction to the D&A Coding Mentoring Scheme
