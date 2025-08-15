@@ -31,7 +31,7 @@ To request a coding mentor please complete the [Coding Mentoring Scheme mentee f
 
 ## Coding Training Groups
 
-MoJ analysts are recommended to take the internal training courses in R, SQL, Python and Git/GitHub as they are run using the MoJ Analytical Platform. The main introductory R, SQL and Git/GitHub sessions are usually run live in February/March, June/July and October/November each year while you can also work through R, SQL, Git/GitHub and Python sessions yourself using the training material and/or recordings. To learn more about the sessions currently available and how to access the material and recordings, go to the [Coding Training Groups chapter](#CTG).
+To benefit from learning while using the MoJ Analytical Platform, MoJ analysts are recommended to take the internal training courses in R, SQL, Python and Git/GitHub. The main introductory R, SQL and Git/GitHub sessions are usually run live in February/March, June/July and October/November each year while you can also work through R, SQL, Git/GitHub and Python sessions yourself using the training material and/or recordings. To learn more about the sessions currently available and how to access the material and recordings, go to the [Coding Training Groups chapter](#CTG).
 
 ## Coffee and Coding
 The internal training (see above) is complemented by Coffee and Coding presentations. These presentations usually take the form of a demonstration of a tool or technique and/or a show and tell of work done within the department using particular coding methods. For more information go to the [Coffee and Coding chapter](#CC).
