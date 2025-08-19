@@ -2,14 +2,14 @@
 title: "Analytical Platform and related tools training"
 author: MoJ coding training leads (the Analytical Platform team is not responsible
   for the content on this page)
-date: '`r Sys.Date()`'
+date: "`r Sys.Date()`"
 bibliography:
 - book.bib
 - packages.bib
 description: This document provides information about using Analytical Platform and
   related tools training resources.
 documentclass: book
-link-citations: yes
+link-citations: true
 site: bookdown::bookdown_site
 biblio-style: apalike
 ---
@@ -77,10 +77,10 @@ There are many Analytical Function training opportunities for analysts including
 DataCamp licenses are beneficial to cover gaps in current training provision that are not currently picked up by either internal or Analytical Function training e.g. training in Power BI and more advanced or niche R, SQL, and Python skills.
 
 * [Read more about DataCamp and signup for a license](https://www.datacamp.com/business/partners/MoJ-and-datacamp-partnership) paid for by MoJ
-* View this [July 2025 DataCamp Onboarding/Refresher & Q&A session recording](https://justiceuk.sharepoint.com/:v:/s/RTrainingGroup/ET1L0bAK4_NAooWWgNuavGsB5BLg_KuPl2u8ccIZN0afKw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=47aN1t)
+* View the [July 2025 DataCamp Onboarding/Refresher & Q&A session recording](https://justiceuk.sharepoint.com/:v:/s/RTrainingGroup/ET1L0bAK4_NAooWWgNuavGsB5BLg_KuPl2u8ccIZN0afKw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=47aN1t)
 * Access [DataCamp on your mobile](https://www.datacamp.com/mobile)
-* View the [DataCamp courses currently in development - Trello board](https://docs.google.com/spreadsheets/d/1ktnwI8cdDt1nfhpTTMSnSjhDzRJxHgcEh8B5xiAVRn0/edit?gid=0#gid=0)
-* Reach out to the [DataCamp support team](https://sl.datacamp.com/t/100925/sc/640e4c47-4cac-46c1-90ed-0da22c35e9f6/NB2HI4DTHIXS643MFZSGC5DBMNQW24BOMNXW2L3UF4YTAMBZGI2S643DF5QTMYRWGUYDQYZNGI2TGZJNGQZDGYRNME4DAMJNMY3WIODCGIYGGNJWMIYC6TSCGJEESNCEKREESWCTGY2DGVSPIJMUONRUKRKUMWSTI5BTKRCCJVHFCVZSGRBE6TKOLBLTETBTJFGU2WCXJMZVETSPKZNFGNRUKRDE6RRSK5FTIM2VJ5GVQVZULJGFQL2HIJJEITK2IJJUOTKZIREU4WSYJVNFCVCFJ5BFQRZUGRDUGWSUIRDUEUKXINNEYQ2NIUZVISKNKJNEONBUKRCVSVCCJBBFCV2DJ5CEEL3TOVYHA33SOQWWIYLUMFRWC3LQFVRW63JNNBRS2ZLOFV2XGLLSMVYXKZLTORZS23TFO4======/ME3DSOJWG43TGYZUMY2DMYTEMVSDINBRG4ZTGOLBME4DCNDFMRSDCYLEGVQTOM3C/sl-datacamp-com-t-100925-sc-a6b6508c-253e-423b-a801-f7d8b20c56b0-nb2hi4dthi) for any technical requests
+* View the [DataCamp courses currently in development - Google Sheets Document](https://docs.google.com/spreadsheets/d/1ktnwI8cdDt1nfhpTTMSnSjhDzRJxHgcEh8B5xiAVRn0/edit?gid=0#gid=0)
+* Reach out to the [DataCamp customer support team (email or chat)](https://support.datacamp.com/hc/en-us/articles/360021185634-How-to-contact-Customer-Support) for any technical requests
 
 ## Microsoft Learn
 [Microsoft Learn](https://learn.microsoft.com/en-us/) provides free training including in Power BI and the Power Apps that you can work through yourself. 
