@@ -1,4 +1,4 @@
-# Coding Training Groups {#CTG}
+# Internal Coding Courses {#ICC}
 
 MoJ analysts are recommended to take the internal training courses as they are run using the MoJ Analytical Platform and focus on topics of relevance to MoJ analysts. 
 

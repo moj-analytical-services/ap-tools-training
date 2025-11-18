@@ -29,3 +29,5 @@ some-useful-talks
 code-repositories
 get-involved-1
 use-of-ai
+internal-coding-courses
+ICC

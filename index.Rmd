@@ -29,9 +29,9 @@ If you are new to coding (in any language or in a new coding language), or if yo
 
 To request a coding mentor please complete the [Coding Mentoring Scheme mentee form](https://forms.office.com/Pages/ResponsePage.aspx?id=KEeHxuZx_kGp4S6MNndq2PdkMZw8L-FEkMSL2t4Oet1UNzBTUDdYSFVYUUJHOE5WM1FCSjRFSzhWTiQlQCN0PWcu). If you would like to become a coding mentor please complete the [Coding Mentoring Scheme mentor form](https://forms.office.com/Pages/ResponsePage.aspx?id=KEeHxuZx_kGp4S6MNndq2PdkMZw8L-FEkMSL2t4Oet1UOTI5V1oyTVJTSDM4Q1BEWFFYOTVVMDBUSCQlQCN0PWcu). For more information please contact Jose Vieira or Helen Williams.
 
-## Coding Training Groups
+## Internal Coding Courses
 
-To benefit from learning while using the MoJ Analytical Platform, MoJ analysts are recommended to take the internal training courses in R, SQL, Python and Git/GitHub. The main introductory R, SQL and Git/GitHub sessions are usually run live in February/March, June/July and October/November each year while you can also work through R, SQL, Git/GitHub and Python sessions yourself using the training material and/or recordings. To learn more about the sessions currently available and how to access the material and recordings, go to the [Coding Training Groups chapter](#CTG).
+To benefit from learning while using the MoJ Analytical Platform, MoJ analysts are recommended to take the internal training courses in R, SQL, Python and Git/GitHub. The main introductory R, SQL and Git/GitHub sessions are usually run live in February/March, June/July and October/November each year while you can also work through R, SQL, Git/GitHub and Python sessions yourself using the training material and/or recordings. To learn more about the sessions currently available and how to access the material and recordings, go to the [Internal Coding Courses chapter](#ICC).
 
 ## Coffee and Coding
 The internal training (see above) is complemented by Coffee and Coding presentations. These presentations usually take the form of a demonstration of a tool or technique and/or a show and tell of work done within the department using particular coding methods. For more information go to the [Coffee and Coding chapter](#CC).
@@ -60,7 +60,7 @@ For more information including if you are interested in presenting a session or 
 
 Learning Pathways are a structured series of learning activities and resources designed to help individuals acquire specific skills and knowledge. You can access the [MoJ learning pathways](https://app.datacamp.com/groups/justice/custom-tracks) via the DataCamp website (see the [DataCamp section](#datacamp) for more information about DataCamp).
 
-The [Introduction to Data Science Learning Pathway](https://app.datacamp.com/learn/custom-tracks/custom-introduction-to-data-science-in-dedsai-python) has been developed to equip staff with the foundational knowledge and skills they need to make a successful start as a Data Scientist. 
+For instance, the [Introduction to Data Science Learning Pathway](https://app.datacamp.com/learn/custom-tracks/custom-introduction-to-data-science-in-dedsai-python) has been developed to equip staff with the foundational knowledge and skills they need to make a successful start as a Data Scientist. 
 
 Who is it for?
 
@@ -86,7 +86,7 @@ DataCamp licenses are beneficial to cover gaps in current training provision tha
 [Microsoft Learn](https://learn.microsoft.com/en-us/) provides free training including in Power BI and the Power Apps that you can work through yourself. 
 
 ## Slack
-Technical help can be requested via the following [Data and Analysis Directorates (and other MoJ analysts) slack channels](https://asdslack.slack.com/): 
+Technical help can be requested via the following [Data and Analysis Directorates and other MoJ analysts slack channels](https://asdslack.slack.com/): 
 
 * ask-operations-engineering - this provides support to those with Analytical Platform issues 
 * intro_R - this provides support to those starting out in the world of R
@@ -96,7 +96,7 @@ Technical help can be requested via the following [Data and Analysis Directorate
 *	python
 * RAP
 
-More information about Slack including how to get set up is available via the [Analytical Platform User Guidance](https://user-guidance.analytical-platform.service.justice.gov.uk/get-started.html#2-create-slack-account) and the [Hive (for Data and Analysis Directorates (and other MoJ analysts))](https://justiceuk.sharepoint.com/sites/MoJDataAnalyticalCommunity/learningoffer/SitePages/What-is-Slack-and-how-to-use-it-.aspx).
+More information about Slack including how to get set up is available via the [Analytical Platform User Guidance](https://user-guidance.analytical-platform.service.justice.gov.uk/get-started.html#2-create-slack-account) and the [Hive (for Data and Analysis Directorates and other MoJ analysts)](https://justiceuk.sharepoint.com/sites/MoJDataAnalyticalCommunity/learningoffer/SitePages/What-is-Slack-and-how-to-use-it-.aspx).
 
 ## Use of AI
 You may find use of Copilot or ChatGPT (see the [Approved AI tools MoJ Intranet article]( https://intranet.justice.gov.uk/guidance/it-services/ai-in-moj/approved-ai-tools/)) to be very helpful in writing, editing and making your coding more reproducible. Datacamp courses (see the [DataCamp section](#datacamp) above) are available to enable you to make the most of these AI tools.
