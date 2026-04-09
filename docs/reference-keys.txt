@@ -2,7 +2,7 @@ summary
 analytical-it-tools-strategy
 analytical-platform
 coding-mentoring-scheme
-coding-training-groups
+internal-coding-courses
 coffee-and-coding
 bite-sized-sessions
 learning-pathways
@@ -10,13 +10,14 @@ analytical-function-training
 datacamp
 microsoft-learn
 slack
+use-of-ai
 other-assistance
 AP
 introduction
 summary-of-key-terms
 getting-set-up
 managing-data
-CTG
+ICC
 r-training
 gitgithub-training
 sql-training
@@ -28,6 +29,3 @@ recorded-presentations
 some-useful-talks
 code-repositories
 get-involved-1
-use-of-ai
-internal-coding-courses
-ICC
